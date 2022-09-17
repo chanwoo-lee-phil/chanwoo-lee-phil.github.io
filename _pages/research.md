@@ -26,7 +26,7 @@ In chapter 5, I argue that the classic metaphor of CT as 'the language of mathem
 ### The Structuralist Approach to Underdetermination
 _Synthese_ 200 (2022). [https://doi.org/10.1007/s11229-022-03495-3](https://doi.org/10.1007/s11229-022-03495-3)
 
-> This paper provides an exposition of the structuralist approach to underdetermination, which aims to resolve the underdetermination of theories by identifying their common theoretical structure. Applications of the structuralist approach can be found in many areas of philosophy. I present a schema of the structuralist approach, which conceptually unifies such applications in different subject matters. It is argued that two classic arguments in the literature, Paul Benacerraf’s argument on natural numbers and W. V. O. Quine’s argument for the indeterminacy of translation, can be analyzed as instances of the structuralist schema. These two applications illustrate different kinds of conclusions that can be drawn through the structuralist approach; Benacerraf’s argument shows that we can derive an ontological conclusion about the given subject matter, while Quine’s structuralist approach leads to a semantic conclusion about how to determine linguistic meanings given radical translation. Then, as a case study, I review a recent debate in metaphysics between Shamik Dasgupta, Jason Turner, and Catharine Diehl to consider the extent to which different instances of the structuralist schema are conceptually unified. Both sides of the debate can be interpreted as utilizing the structuralist approach; one side uses the structuralist approach for an ontological conclusion, while the other side relies on a semantic conclusion. I argue that this has a strong dialectical consequence, which sheds light on the conceptual unity of the structuralist approach.
+> This paper provides an exposition of the structuralist approach to underdetermination, which aims to resolve the underdetermination of theories by identifying their common theoretical structure. [...] as a case study, I review a recent debate in metaphysics between Shamik Dasgupta, Jason Turner, and Catharine Diehl to consider the extent to which different instances of the structuralist schema are conceptually unified. [...]
 
 ## Under Review
 
@@ -39,8 +39,11 @@ _Synthese_ 200 (2022). [https://doi.org/10.1007/s11229-022-03495-3](https://doi.
 
 
 ## Recent and Upcoming Presentations
-
-
+ * November 2022. “More Philosophies by Less Philosophy when the Practice doesn’t Settle Philosophy”. PSA 2022 Poster Session
+ * 29 June 2022. “More Philosophies by Less Philosophy when the Practice doesn’t Settle Philosophy”. Annual Conference for the Korean Society of Philosophy of Science
+ * 24 June 2022. “When Structuralism Meets Inferentialism” Annual Conference of the Australasian Association of Logic
+ * 14 May 2022. “Foundation as Scaffolding”. Annual Meeting of the Canadian Society for History and Philosophy of Mathematics
+ * 15 April 2022. “More Philosophies by Less Philosophy when the Practice doesn’t Settle Philosophy”. Pacific APA Poster Session, Vancouver
 
 
 
