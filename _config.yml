@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Chanwoo Lee"
-  avatar           : ""# 사진 넣기
+  avatar           : "Bio"# 사진 넣기
   bio              : "Links:"
   location         : 
   employer         :
