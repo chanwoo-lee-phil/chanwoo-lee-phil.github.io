@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[**Curriculum Vitae (August 2022)**](https://philosophy.ucdavis.edu/people/clee5576/cv)
+[**Curriculum Vitae**](https://philosophy.ucdavis.edu/people/clee5576/cv)
 
 
 
