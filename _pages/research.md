@@ -38,10 +38,11 @@ _Synthese_ 200 (2022). [https://doi.org/10.1007/s11229-022-03495-3](https://doi.
 
 
 
-## Recent and Upcoming Presentations
- * November 2022. “More Philosophies by Less Philosophy when the Practice doesn’t Settle Philosophy”. PSA 2022 Poster Session
+## Recent and Upcoming Events
+ * November 2022. “More Philosophies by Less Philosophy when the Practice doesn’t Settle Philosophy”. PSA Poster Session, Pittsburgh
+ * 14 August 2022. Comment on Shmuel Gomes’ “Is Consciousness Required for Moral Standing?”. 15th Annual Rocky Mountain Ethics Congress
  * 29 June 2022. “More Philosophies by Less Philosophy when the Practice doesn’t Settle Philosophy”. Annual Conference for the Korean Society of Philosophy of Science
- * 24 June 2022. “When Structuralism Meets Inferentialism” Annual Conference of the Australasian Association of Logic
+ * 24 June 2022. “When Structuralism Meets Inferentialism”. Annual Conference of the Australasian Association of Logic
  * 14 May 2022. “Foundation as Scaffolding”. Annual Meeting of the Canadian Society for History and Philosophy of Mathematics
  * 15 April 2022. “More Philosophies by Less Philosophy when the Practice doesn’t Settle Philosophy”. Pacific APA Poster Session, Vancouver
 
