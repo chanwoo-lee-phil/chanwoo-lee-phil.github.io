@@ -122,7 +122,7 @@
       {% endif %}
       {% if author.email %}
         <!-- <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li> -->
-        <a href="mailto:{{ author.email }}"> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+        <li> <a href="mailto:{{ author.email }}"> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}      
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
