@@ -5,9 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<h2> Course Instructor </h2>
+## Course Instructor
 
-## Teaching Assistant
+
+
+## Teaching Assistant 
 
 
 <!--
