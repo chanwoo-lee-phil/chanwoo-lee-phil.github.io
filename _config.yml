@@ -81,15 +81,15 @@ analytics:
 # Site Author
 author:
   name             : "Chanwoo Lee"
-  avatar           : # 사진 넣기
-  bio              : # 프로필 글
+  avatar           : ""# 사진 넣기
+  bio              : "Links:"
   location         : 
   employer         :
   pubmed           : 
   departmentpage   : "https://philosophy.ucdavis.edu/people/clee5576/"
   philpapers        : "https://philpeople.org/profiles/chanwoo-lee"
   googlescholar    : "https://scholar.google.com/citations?user=T-aPWowAAAAJ"
-  email            :
+  email            : "owclee@ucdavis.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
