@@ -7,18 +7,28 @@ author_profile: true
 
 Many of my current research projects revolve around the intersection of general philosophy of science, metaphysics, and philosophy of mathematics. I believe that the synergy between these areas can lead to more exciting inquiries. 
 
-### Dissertation Project
+## Dissertation Project
 
+The working title of my dissertation is "Category-theoretic Structuralism as a Foundation of Mathematics." My project investigates the foundational roles of a category-theoretic (CT) framework. I ask how CT can be autonomous and consider its appeal as a foundational framework. I approach this question from more general and diverse perspectives, considering their implications on CT.
 
+In chapter 1, I provide a literature view of structuralism in philosophy of mathematics and the philosophical debates around CT, explaining how these two lines of thought came together and led to the emergence of CT-structuralism.
 
-### Publication
+In chapter 2, I introduce the fine-grained notion of 'conception' to the foundation of mathematics. Using orthodox set theory as an example, I show how the same foundational account can be conceived of in multiple ways, which leads to a significant difference in foundational debates. I argue that the introduction of this fine-grained notion also allows us a response to the well-known critique of CT-structuralism known as 'the problem of the home address.'
 
-#### The Structuralist Approach to Underdetermination
-_Synthese_ 200 (2022). https://doi.org/10.1007/s11229-022-03495-3
+In chapter 3, I consider the relationship between structuralism and inferentialism, which have been seldom considered together. Based on their common historical origin in the famous Frege-Hilbert debate, I argue that structuralists can, and should, be inferentialists. I also consider how this conclusion allows us to overcome another well-known critique of CT-structuralism known as 'the mismatch objection.' 
+
+In chapter 4, I link the debates on CT-foundation with the growing scholarship on mathematical explanation. I argue that the term 'foundation of mathematics' can be understood in an explanatory sense, which is backed up by both historical and philosophical considerations. Based on recent case studies about the explanation through Galois theory and CT, I suggest that the philosophy of mathematical practice can shed new light on more traditional, foundational debates as well.
+
+In chapter 5, I argue that the classic metaphor of CT as 'the language of mathematics' can be explicated using the notion of metaphysical perspicuity. I analyze the notion of metaphysical perspicuity, which has begun to receive philosophical interest in many subfields, and challenge some common conceptions about the notion. This will allow us to better understand the appeal of CT as the language of mathematics based on other notable cases.
+
+## Publication
+
+### The Structuralist Approach to Underdetermination
+_Synthese_ 200 (2022). [https://doi.org/10.1007/s11229-022-03495-3](https://doi.org/10.1007/s11229-022-03495-3)
 
 > This paper provides an exposition of the structuralist approach to underdetermination, which aims to resolve the underdetermination of theories by identifying their common theoretical structure. Applications of the structuralist approach can be found in many areas of philosophy. I present a schema of the structuralist approach, which conceptually unifies such applications in different subject matters. It is argued that two classic arguments in the literature, Paul Benacerraf’s argument on natural numbers and W. V. O. Quine’s argument for the indeterminacy of translation, can be analyzed as instances of the structuralist schema. These two applications illustrate different kinds of conclusions that can be drawn through the structuralist approach; Benacerraf’s argument shows that we can derive an ontological conclusion about the given subject matter, while Quine’s structuralist approach leads to a semantic conclusion about how to determine linguistic meanings given radical translation. Then, as a case study, I review a recent debate in metaphysics between Shamik Dasgupta, Jason Turner, and Catharine Diehl to consider the extent to which different instances of the structuralist schema are conceptually unified. Both sides of the debate can be interpreted as utilizing the structuralist approach; one side uses the structuralist approach for an ontological conclusion, while the other side relies on a semantic conclusion. I argue that this has a strong dialectical consequence, which sheds light on the conceptual unity of the structuralist approach.
 
-### Under Review
+## Under Review
 
  * A paper on the rift between analytic and scientific metaphysics
  * A paper on ontic indeterminacy and fundamentality
@@ -28,7 +38,7 @@ _Synthese_ 200 (2022). https://doi.org/10.1007/s11229-022-03495-3
 
 
 
-### Recent and Upcoming Presentations
+## Recent and Upcoming Presentations
 
 
 
