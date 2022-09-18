@@ -8,7 +8,7 @@ author_profile: true
 ## Primary Instructor
 ### Appraising Scientific Reasoning
 
-_PHI 31, Summer Session 2, 2022, UC Davis_
+_PHI 31, Summer Session 2 2022, UC Davis_
 
 Course Description:
 > Science is in every corner of our daily lives, but how do we approach it? Modern science is so vast that even scientists can master only a fraction of the body of scientific knowledge. We can study scientific knowledge, but at the same time, we can also ask how science  works, or more specifically, how scientists reason. This course will provide an introduction to reasoning in science, which some refer to as ‘the scientific method.’ The specific questions we will ask include the following: What makes science so significant? What types of reasoning are valid? How does society impact science? To this end, we will delve deep into key concepts in scientific reasoning such as ‘experimentation’, ‘big data’, ‘deduction’, ‘fallacy’, ‘variable’, ‘causation’, ‘scientific theory’, etc. The learning objectives include developing basic scientific literacy and your abilities to:
