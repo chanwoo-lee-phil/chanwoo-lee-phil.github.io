@@ -24,7 +24,7 @@ In chapter 5, I argue that the classic metaphor of CT as 'the language of mathem
 ## Publication
 
 ### The Structuralist Approach to Underdetermination
-_Synthese_ 200 (2022). [https://doi.org/10.1007/s11229-022-03495-3](https://doi.org/10.1007/s11229-022-03495-3)
+_Synthese_, 2022. [https://doi.org/10.1007/s11229-022-03495-3](https://doi.org/10.1007/s11229-022-03495-3)
 
 > This paper provides an exposition of the structuralist approach to underdetermination, which aims to resolve the underdetermination of theories by identifying their common theoretical structure. [...] as a case study, I review a recent debate in metaphysics between Shamik Dasgupta, Jason Turner, and Catharine Diehl to consider the extent to which different instances of the structuralist schema are conceptually unified. [...]
 
