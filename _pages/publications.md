@@ -1,3 +1,5 @@
+<!--
+
 ---
 layout: archive
 title: "Publications"
@@ -16,3 +18,5 @@ sitemap:false
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+-->
