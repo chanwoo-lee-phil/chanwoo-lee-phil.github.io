@@ -38,7 +38,8 @@ _Synthese_, 2022. [https://doi.org/10.1007/s11229-022-03495-3](https://doi.org/1
 
 
 ## Recent and Upcoming Events
- * February 2023. "Conceptions of a Foundation of Mathematics". Central APA, Denver
+ * April 2023. “When Structuralism Meets Inferentialism”. Pacific APA, San Francisco
+ * February 2023. “Conceptions of a Foundation of Mathematics”. Central APA, Denver
  * 11 November 2022. “More Philosophies by Less Philosophy when the Practice doesn’t Settle Philosophy”. PSA Poster Session, Pittsburgh
  * 14 August 2022. Comment on Shmuel Gomes’ “Is Consciousness Required for Moral Standing?”. 15th Annual Rocky Mountain Ethics Congress
  * 29 June 2022. “More Philosophies by Less Philosophy when the Practice doesn’t Settle Philosophy”. Annual Conference for the Korean Society of Philosophy of Science
