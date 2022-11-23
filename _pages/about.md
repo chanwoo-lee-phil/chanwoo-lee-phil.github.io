@@ -10,7 +10,7 @@ redirect_from:
 
 I am a philosophy PhD student in the [Department of Philosophy, UC Davis.](https://philosophy.ucdavis.edu/)
 
-My primary research interest lies in various strands of structuralism, e.g., structuralism in philosophy of mathematics and structural realism in philosophy of science. As a dissertation project, I study the prospect of category theory as a foundation of mathematics against the backdrop of structuralism. I also have interests in metaphysics of science, philosophy of logic, applied ethics, etc
+My primary research interest lies in various strands of structuralism, e.g., structuralism in philosophy of mathematics and structural realism in philosophy of science. As a dissertation project, I study the prospect of category theory as a foundation of mathematics against the backdrop of structuralism. I also have interests in metaphysics of science, philosophy of logic, applied ethics, etc.
 
 Before coming to UC Davis, I attended [Seoul National University](https://en.snu.ac.kr/), where I received my BA and MA in philosophy.
 
