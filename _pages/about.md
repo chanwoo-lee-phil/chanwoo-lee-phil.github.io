@@ -12,7 +12,7 @@ I am a philosophy PhD student in the [Department of Philosophy, UC Davis.](https
 
 My primary research interest lies in various strands of structuralism, e.g., structuralism in philosophy of mathematics and structural realism in philosophy of science. As a dissertation project, I study the prospect of category theory as a foundation of mathematics against the backdrop of structuralism. I also have interests in metaphysics of science, philosophy of logic, applied ethics, etc
 
-Before coming to UC Davis, I attended [Seoul National University](https://en.snu.ac.kr/), where I received my BA and MA in philosophy. I also minored in brain-mind-behavior, computer science and engineering, and linguistics as an undergraduate. 
+Before coming to UC Davis, I attended [Seoul National University](https://en.snu.ac.kr/), where I received my BA and MA in philosophy.
 
 I like cats, but since I have been diagnosed with a cat allergy as a kid, I have never been able to live with them. (I see the silver lining after my recent, successful, cat-sitting experience.) For now, I am happy with [r/cats](https://www.reddit.com/r/cats/).
 
