@@ -21,35 +21,35 @@ Course Description:
 
 ## Teaching Assistant 
 
-#### Appraising Scientific Reasoning
+### Appraising Scientific Reasoning
 
 _PHI 31, Fall 2021, Winter 2022, UC Davis_
 
-#### Critical Reasoning
+### Critical Reasoning
 
 _PHI 5, Winter 2020, UC Davis_
 
-#### Ethical and Social Problems in Contemporary Society
+### Ethical and Social Problems in Contemporary Society
 
 _PHI14, Spring 2022, UC Davis_
 
-#### Introduction to Philosophy
+### Introduction to Philosophy
 
 _PHI 1, Spring 2020, UC Davis_
 
-#### Introduction to Philosophy of Biology 
+### Introduction to Philosophy of Biology 
 
 _PHI 38, Spring 2021, UC Davis_
 
-#### Introduction to Philosophy of Science 
+### Introduction to Philosophy of Science 
 
 _PHI 30, Winter 2021, UC Davis_
 
-#### Introduction to Symbolic Logic
+### Introduction to Symbolic Logic
 
 _PHI 12, Fall 2020, UC Davis_
 
-#### Minds, Brains, Computers
+### Minds, Brains, Computers
 
 _PHI 13, Fall 2019, UC Davis_
 
