@@ -21,7 +21,8 @@ In Chapter 4, I link the debates on CT-foundation with the growing scholarship o
 
 In Chapter 5, I argue that the classic metaphor of CT as 'the language of mathematics' can be explicated using the notion of metaphysical perspicuity. I analyze the notion of metaphysical perspicuity, which has begun to receive philosophical interest in many subfields, and challenge some common conceptions about the notion. This will allow us to better understand the appeal of CT as the language of mathematics based on other notable cases.
 
-## Publication
+## Publications
+
 ### From Indeterminacy in a Fundamental Theory to Fundamental Indeterminacy?
 _Analytic Philosophy_, forthcoming
 > <sub> In this paper, I examine a case for fundamental indeterminacy (FI) by Elizabeth Barnes and offer my counterarguments. Barnes’ account of FI includes both the characterization of FI and why we need to accept it. I argue that her reasons for accepting FI can be challenged even when we accept her characterization of FI. Her main claim is that finding a fundamental proposition that our fundamental theory is indeterminate about (FPF) gives us a reason to accept FI in metaphysics. I challenge her claim by pointing out more plausible options to address FPFs. An FPF may either indicate that the theory is non-fundamental or lead us to accept the anti-realist view; there is no room for FI in either option. One may insist on accepting FI, but I argue that it is not theoretically rewarding enough. Hence, Barnes’ case for FI can be contested. </sub>
