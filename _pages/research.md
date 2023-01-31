@@ -22,6 +22,10 @@ In Chapter 4, I link the debates on CT-foundation with the growing scholarship o
 In Chapter 5, I argue that the classic metaphor of CT as 'the language of mathematics' can be explicated using the notion of metaphysical perspicuity. I analyze the notion of metaphysical perspicuity, which has begun to receive philosophical interest in many subfields, and challenge some common conceptions about the notion. This will allow us to better understand the appeal of CT as the language of mathematics based on other notable cases.
 
 ## Publication
+### From Indeterminacy in a Fundamental Theory to Fundamental Indeterminacy?
+_Analytic Philosophy_, forthcoming
+
+> In this paper, I examine a case for fundamental indeterminacy (FI) by Elizabeth Barnes and offer my counterarguments. Barnes’ account of FI includes both the characterization of FI and why we need to accept it. I argue that her reasons for accepting FI can be challenged even when we accept her characterization of FI. [...]
 
 ### The Structuralist Approach to Underdetermination
 _Synthese_, 2022. [https://doi.org/10.1007/s11229-022-03495-3](https://doi.org/10.1007/s11229-022-03495-3)
@@ -30,8 +34,8 @@ _Synthese_, 2022. [https://doi.org/10.1007/s11229-022-03495-3](https://doi.org/1
 
 ## Under Review
 
-* A paper on ontic indeterminacy and fundamentality
- * A paper on logical theories and translatability
+* A paper on the rift between analytic and scientific metaphysics
+* A paper on logical theories and translatability
 
 
 
