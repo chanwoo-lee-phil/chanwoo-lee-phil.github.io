@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Events"
+permalink: /event/
+author_profile: true
+---
+
 ## Recent and Upcoming Events
  * April 2023. “When Structuralism Meets Inferentialism”. Pacific APA, San Francisco
  * February 2023. “Conceptions of a Foundation in Mathematics”. Central APA, Denver
