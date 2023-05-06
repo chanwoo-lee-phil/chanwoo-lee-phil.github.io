@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[**Curriculum Vitae**](https://philpeople.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRldsSEFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8fc33ceb13012f056664ed86e036d914f187a7ac/CV_2303.pdf)
+[**Curriculum Vitae**](https://philpeople.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRldsSEFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8fc33ceb13012f056664ed86e036d914f187a7ac/CV_2305.pdf)
 
 
 
