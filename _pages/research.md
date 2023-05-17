@@ -9,20 +9,34 @@ Many of my current research projects revolve around the intersection of general 
 
 ## Publications
 
-### What Analytic Metaphysics Can Do For Scientific Metaphysics
-_Ratio_, forthcoming
-> <sub> The apparent chasm between two camps in metaphysics, analytic metaphysics and scientific metaphysics, is well recognized. I argue that the relationship between them is not necessarily a rivalry; a division of labour that resembles the relationship between pure mathematics and science is possible. As a case study, I look into the metaphysical underdetermination argument for ontic structural realism, a well-known position in scientific metaphysics, together with an argument for the position in analytic metaphysics known as ontological nihilism. I argue that we can ascribe the same schema to both arguments, which indicates that analytic metaphysics can offer an abstract model that scientific metaphysics may find useful. </sub>
+#### What Analytic Metaphysics Can Do For Scientific Metaphysics
+_Ratio_, 2023. [[DOI]](https://doi.org/10.1111/rati.12379)
+<details>
+<summary>Abstract</summary>
+  
+> The apparent chasm between two camps in metaphysics, analytic metaphysics and scientific metaphysics, is well recognized. I argue that the relationship between them is not necessarily a rivalry; a division of labour that resembles the relationship between pure mathematics and science is possible. As a case study, I look into the metaphysical underdetermination argument for ontic structural realism, a well-known position in scientific metaphysics, together with an argument for the position in analytic metaphysics known as ontological nihilism. I argue that we can ascribe the same schema to both arguments, which indicates that analytic metaphysics can offer an abstract model that scientific metaphysics may find useful. 
 
+</details>
+  
 
-### From Indeterminacy in a Fundamental Theory to Fundamental Indeterminacy?
+#### From Indeterminacy in a Fundamental Theory to Fundamental Indeterminacy?
 _Analytic Philosophy_, forthcoming
-> <sub> In this paper, I examine a case for fundamental indeterminacy (FI) by Elizabeth Barnes and offer my counterarguments. Barnes’ account of FI includes both the characterization of FI and why we need to accept it. I argue that her reasons for accepting FI can be challenged even when we accept her characterization of FI. Her main claim is that finding a fundamental proposition that our fundamental theory is indeterminate about (FPF) gives us a reason to accept FI in metaphysics. I challenge her claim by pointing out more plausible options to address FPFs. An FPF may either indicate that the theory is non-fundamental or lead us to accept the anti-realist view; there is no room for FI in either option. One may insist on accepting FI, but I argue that it is not theoretically rewarding enough. Hence, Barnes’ case for FI can be contested. </sub>
+<details>
+<summary>Abstract</summary>
+  
+> In this paper, I examine a case for fundamental indeterminacy (FI) by Elizabeth Barnes and offer my counterarguments. Barnes’ account of FI includes both the characterization of FI and why we need to accept it. I argue that her reasons for accepting FI can be challenged even when we accept her characterization of FI. Her main claim is that finding a fundamental proposition that our fundamental theory is indeterminate about (FPF) gives us a reason to accept FI in metaphysics. I challenge her claim by pointing out more plausible options to address FPFs. An FPF may either indicate that the theory is non-fundamental or lead us to accept the anti-realist view; there is no room for FI in either option. One may insist on accepting FI, but I argue that it is not theoretically rewarding enough. Hence, Barnes’ case for FI can be contested.
 
+</details>
 
-### The Structuralist Approach to Underdetermination
+#### The Structuralist Approach to Underdetermination
 _Synthese_, 2022. [[DOI]](https://doi.org/10.1007/s11229-022-03495-3) [[Philpapers]](https://philpapers.org/rec/LEETSA-12) [[PhilSci-Archive]](http://philsci-archive.pitt.edu/20367/)
-> <sub> This paper provides an exposition of the structuralist approach to underdetermination, which aims to resolve the underdetermination of theories by identifying their common theoretical structure. Applications of the structuralist approach can be found in many areas of philosophy. I present a schema of the structuralist approach, which conceptually unifies such applications in different subject matters. It is argued that two classic arguments in the literature, Paul Benacerraf’s argument on natural numbers and W. V. O. Quine’s argument for the indeterminacy of translation, can be analyzed as instances of the structuralist schema. These two applications illustrate different kinds of conclusions that can be drawn through the structuralist approach; Benacerraf’s argument shows that we can derive an ontological conclusion about the given subject matter, while Quine’s structuralist approach leads to a semantic conclusion about how to determine linguistic meanings given radical translation. Then, as a case study, I review a recent debate in metaphysics between Shamik Dasgupta, Jason Turner, and Catharine Diehl to consider the extent to which different instances of the structuralist schema are conceptually unified. Both sides of the debate can be interpreted as utilizing the structuralist approach; one side uses the structuralist approach for an ontological conclusion, while the other side relies on a semantic conclusion. I argue that this has a strong dialectical consequence, which sheds light on the conceptual unity of the structuralist approach. </sub>
+<details>
+<summary>Abstract</summary>
 
+ > This paper provides an exposition of the structuralist approach to underdetermination, which aims to resolve the underdetermination of theories by identifying their common theoretical structure. Applications of the structuralist approach can be found in many areas of philosophy. I present a schema of the structuralist approach, which conceptually unifies such applications in different subject matters. It is argued that two classic arguments in the literature, Paul Benacerraf’s argument on natural numbers and W. V. O. Quine’s argument for the indeterminacy of translation, can be analyzed as instances of the structuralist schema. These two applications illustrate different kinds of conclusions that can be drawn through the structuralist approach; Benacerraf’s argument shows that we can derive an ontological conclusion about the given subject matter, while Quine’s structuralist approach leads to a semantic conclusion about how to determine linguistic meanings given radical translation. Then, as a case study, I review a recent debate in metaphysics between Shamik Dasgupta, Jason Turner, and Catharine Diehl to consider the extent to which different instances of the structuralist schema are conceptually unified. Both sides of the debate can be interpreted as utilizing the structuralist approach; one side uses the structuralist approach for an ontological conclusion, while the other side relies on a semantic conclusion. I argue that this has a strong dialectical consequence, which sheds light on the conceptual unity of the structuralist approach. 
+
+</details>
+  
 ## Dissertation Project
 
 The working title of my dissertation is "Category-theoretic Structuralism as a Foundation of Mathematics." My project investigates the foundational roles of a category-theoretic (CT) framework. I ask how CT can be autonomous and consider its appeal as a foundational framework. I approach this question from more general and diverse perspectives, considering their implications on CT.
@@ -48,4 +62,7 @@ In Chapter 5, I argue that the classic metaphor of CT as 'the language of mathem
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+> <sub> The apparent chasm between two camps in metaphysics, analytic metaphysics and scientific metaphysics, is well recognized. I argue that the relationship between them is not necessarily a rivalry; a division of labour that resembles the relationship between pure mathematics and science is possible. As a case study, I look into the metaphysical underdetermination argument for ontic structural realism, a well-known position in scientific metaphysics, together with an argument for the position in analytic metaphysics known as ontological nihilism. I argue that we can ascribe the same schema to both arguments, which indicates that analytic metaphysics can offer an abstract model that scientific metaphysics may find useful. </sub>
+
 -->
