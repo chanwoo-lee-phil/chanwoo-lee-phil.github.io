@@ -9,7 +9,7 @@ Many of my current research projects revolve around the intersection of general 
 
 ## Publications
 
-#### What Analytic Metaphysics Can Do For Scientific Metaphysics
+### What Analytic Metaphysics Can Do For Scientific Metaphysics
 _Ratio_, 2023. [[DOI]](https://doi.org/10.1111/rati.12379)
 <details>
 <summary>Abstract</summary>
@@ -19,7 +19,7 @@ _Ratio_, 2023. [[DOI]](https://doi.org/10.1111/rati.12379)
 </details>
   
 
-#### From Indeterminacy in a Fundamental Theory to Fundamental Indeterminacy?
+### From Indeterminacy in a Fundamental Theory to Fundamental Indeterminacy?
 _Analytic Philosophy_, forthcoming
 <details>
 <summary>Abstract</summary>
@@ -28,7 +28,7 @@ _Analytic Philosophy_, forthcoming
 
 </details>
 
-#### The Structuralist Approach to Underdetermination
+### The Structuralist Approach to Underdetermination
 _Synthese_, 2022. [[DOI]](https://doi.org/10.1007/s11229-022-03495-3) [[Philpapers]](https://philpapers.org/rec/LEETSA-12) [[PhilSci-Archive]](http://philsci-archive.pitt.edu/20367/)
 <details>
 <summary>Abstract</summary>
