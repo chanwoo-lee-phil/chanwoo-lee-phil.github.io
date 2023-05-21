@@ -10,7 +10,7 @@ Many of my current research projects revolve around the intersection of general 
 ## Publications
 
 ### What Analytic Metaphysics Can Do For Scientific Metaphysics
-_Ratio_, 2023. 
+_Ratio_, 2023 
 
 <sup>[[DOI]](https://doi.org/10.1111/rati.12379) [[Philpapers]](https://philpapers.org/rec/LEEWAM) [[PhilSci-Archive]](http://philsci-archive.pitt.edu/22118/)</sup>
 <details>
@@ -35,7 +35,7 @@ In this paper, I examine a case for fundamental indeterminacy (FI) by Elizabeth 
 </details>
 
 ### The Structuralist Approach to Underdetermination
-_Synthese_, 2022. 
+_Synthese_, 2022 
 
 <sup>[[DOI]](https://doi.org/10.1007/s11229-022-03495-3) [[Philpapers]](https://philpapers.org/rec/LEETSA-12) [[PhilSci-Archive]](http://philsci-archive.pitt.edu/20367/)</sup>
 <details>
