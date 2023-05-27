@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Recent and Upcoming Events
+ * August 2023. "Metaphysical Perspicuity". Society for the Metaphysics of Science 2023 Conference, Dalhousie University
  * 29 April 2023. Comment on Aglaia von Götz’s “How to count to one and a half”. Berkeley-Stanford-Davis Graduate Conference
  * 7 April 2023. “When Structuralism Meets Inferentialism”. Pacific APA, San Francisco
  * 24 February 2023. “Conceptions of a Foundation in Mathematics”. Central APA, Denver
