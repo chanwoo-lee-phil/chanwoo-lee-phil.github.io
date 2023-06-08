@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Primary Instructor
+
 ### Appraising Scientific Reasoning
 
 _PHI 31, Summer 2022, UC Davis_
