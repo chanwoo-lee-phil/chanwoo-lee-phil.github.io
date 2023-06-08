@@ -20,6 +20,20 @@ Science is in every corner of our daily lives, but how do we approach it? Modern
   
 </details>
 
+### Introduction to Philosophy
+
+_PHI 1, Spring 2023, UC Davis_
+
+<details>
+<summary>Course Description</summary>
+  
+<blockquote>
+This course offers a thematic introduction to philosophy; we will go through various fundamental philosophical topics, such as knowledge, mind, self, reality, race, morality, and the meaning of life. The objective of this course is not to _tell_ you the definitive answers to philosophical questions. Instead, we aim to equip you with the necessary _tools_ to navigate through philosophical questions independently. The learning objectives of this course thus include developing abilities to: understand basic philosophical concepts and apply them in concrete situations; analyze the basic arguments in some main areas of philosophy and critically assess them; reflect on your philosophical views and present your own philosophical argument; express your ideas through critical writing that engages with philosophical materials.
+  
+ </blockquote>
+  
+</details>
+
 ## Teaching Assistant 
 
 #### Appraising Scientific Reasoning
