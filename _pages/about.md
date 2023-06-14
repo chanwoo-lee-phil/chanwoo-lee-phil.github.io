@@ -14,7 +14,7 @@ My primary research interest lies in various strands of structuralism, e.g., str
 
 Before coming to UC Davis, I attended [Seoul National University](https://en.snu.ac.kr/), where I received my BA and MA in philosophy.
 
-You can also find my CV [here](https://chanwoo-lee-phil.github.io/cv/)).
+You can find my CV [here](https://chanwoo-lee-phil.github.io/cv/).
 
 I like cats, but since I have been diagnosed with a cat allergy as a kid, I have never been able to live with them. (I see the silver lining after my recent, successful, cat-sitting experience.) For now, I am happy with [r/cats](https://www.reddit.com/r/cats/).
 
