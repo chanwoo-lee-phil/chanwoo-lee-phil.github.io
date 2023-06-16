@@ -25,6 +25,8 @@ The apparent chasm between two camps in metaphysics, analytic metaphysics and sc
 
 ### From Indeterminacy in a Fundamental Theory to Fundamental Indeterminacy?
 _Analytic Philosophy_, forthcoming
+
+<sup>[[Preprint]](https://chanwoo-lee-phil.github.io/images/CL_(Fundamental_Indeterminacy)_Preprint.pdf) </sup>
 <details>
 <summary>Abstract</summary>
 
