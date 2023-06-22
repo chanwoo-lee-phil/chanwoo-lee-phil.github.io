@@ -9,7 +9,7 @@ author_profile: true
 
 ### Appraising Scientific Reasoning
 
-_Summer 2022, PHI 31, UC Davis_
+_PHI 31, UC Davis, Summer 2022_
 
 <details>
 <summary>Course Description</summary>
@@ -23,7 +23,7 @@ Science is in every corner of our daily lives, but how do we approach it? Modern
 
 ### Introduction to Philosophy
 
-_PHI 1, Spring 2023, UC Davis_
+_PHI 1, UC Davis, Spring 2023_
 
 <details>
 <summary>Course Description</summary>
