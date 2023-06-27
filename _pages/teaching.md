@@ -9,7 +9,7 @@ author_profile: true
 
 ### Appraising Scientific Reasoning
 
-_PHI 31, UC Davis, Summer 2022_
+_PHI 31, UC Davis, Summer 2022, 2023_
 
 <details>
 <summary>Course Description</summary>
@@ -47,7 +47,7 @@ This course offers a thematic introduction to philosophy; we will go through var
 
 **Introduction to Philosophy** (_PHI 1, UC Davis_): Spring 2020
 
-**Introduction to Philosophy of Biology** (_PHI 38, UC Davis_): Spring 2021
+**Introduction to Philosophy of Biology** (_PHI 38, UC Davis_): Spring 2021, Winter 2023
 
 **Introduction to Philosophy of Science** (_PHI 30, UC Davis_): Winter 2021
 
