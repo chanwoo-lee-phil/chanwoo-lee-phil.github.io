@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Recent and Upcoming Events
- * 27 September 2023. “Conceptions of a Foundation in Mathematics”. Department of Philosophy, California State University, Chico
+ * 27 September 2023. “Conceptions of a Foundation in Mathematics”. Philosophy Colloquium Series, California State University, Chico
  * 11 August 2023. Comment on Sabrina Hao's "What are scientists talking about when they talk about particles?". Society for the Metaphysics of Science 2023 Conference, Dalhousie University
  * 11 August 2023. "Metaphysical Perspicuity". Society for the Metaphysics of Science 2023 Conference, Dalhousie University
  * 29 April 2023. Comment on Aglaia von Götz’s “How to count to one and a half”. Berkeley-Stanford-Davis Graduate Conference
