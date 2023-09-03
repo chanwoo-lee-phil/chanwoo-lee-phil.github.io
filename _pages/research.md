@@ -10,9 +10,9 @@ Many of my current research projects revolve around the intersection of general 
 ## Publications
 
 ### What Analytic Metaphysics Can Do For Scientific Metaphysics
-_Ratio_, 2023 
+_Ratio_, 2023. [[Official link]](https://doi.org/10.1111/rati.12379) [[Philpapers]](https://philpapers.org/rec/LEEWAM) [[PhilSci-Archive]](http://philsci-archive.pitt.edu/22118/)
 
-<sup>[[Official link]](https://doi.org/10.1111/rati.12379) [[Philpapers]](https://philpapers.org/rec/LEEWAM) [[PhilSci-Archive]](http://philsci-archive.pitt.edu/22118/)</sup>
+
 <details>
 <summary>Abstract</summary>
   
@@ -24,9 +24,7 @@ The apparent chasm between two camps in metaphysics, analytic metaphysics and sc
   
 
 ### From Indeterminacy in a Fundamental Theory to Fundamental Indeterminacy?
-_Analytic Philosophy_, forthcoming
-
-<sup>[[Preprint]](https://chanwoo-lee-phil.github.io/images/CL_(Fundamental_Indeterminacy)_Preprint.pdf) </sup>
+_Analytic Philosophy_, forthcoming. [[Preprint]](https://chanwoo-lee-phil.github.io/images/CL_(Fundamental_Indeterminacy)_Preprint.pdf) 
 <details>
 <summary>Abstract</summary>
 
@@ -37,9 +35,7 @@ In this paper, I examine a case for fundamental indeterminacy (FI) by Elizabeth 
 </details>
 
 ### The Structuralist Approach to Underdetermination
-_Synthese_, 2022 
-
-<sup>[[Official link]](https://doi.org/10.1007/s11229-022-03495-3) [[Philpapers]](https://philpapers.org/rec/LEETSA-12) [[PhilSci-Archive]](http://philsci-archive.pitt.edu/20367/)</sup>
+_Synthese_, 2022. [[Official link]](https://doi.org/10.1007/s11229-022-03495-3) [[Philpapers]](https://philpapers.org/rec/LEETSA-12) [[PhilSci-Archive]](http://philsci-archive.pitt.edu/20367/)
 <details>
 <summary>Abstract</summary>
 
@@ -65,6 +61,11 @@ In Chapter 5, I argue that the classic metaphor of CT as 'the language of mathem
 
 
 <!--
+
+<sup>[[Preprint]](https://chanwoo-lee-phil.github.io/images/CL_(Fundamental_Indeterminacy)_Preprint.pdf) </sup>
+
+
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
