@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Recent and Upcoming Events
- * 4 January 2024. "Category Theory as an Explanatory Foundation". AMS Special Session on Mathematics and Philosophy, San Francisco
+ * 5 January 2024. "Category Theory as an Explanatory Foundation". AMS Special Session on Mathematics and Philosophy, San Francisco
  * 27 September 2023. “Conceptions of a Foundation in Mathematics”. Philosophy Colloquium Series, California State University, Chico
  * 11 August 2023. Comment on Sabrina Hao's "What are scientists talking about when they talk about particles?". Society for the Metaphysics of Science 2023 Conference, Dalhousie University
  * 11 August 2023. "Metaphysical Perspicuity". Society for the Metaphysics of Science 2023 Conference, Dalhousie University
