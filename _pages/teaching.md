@@ -21,6 +21,21 @@ Science is in every corner of our daily lives, but how do we approach it? Modern
   
 </details>
 
+### Ethical & Social Problems in Contemporary Society
+
+_PHI 14, UC Davis, Fall 2023_
+
+<details>
+<summary>Course Description</summary>
+  
+<blockquote>
+This course delves into some of the ethical and social challenges that we are facing right now, including those of humanitarianism, artificial intelligence, microaggression, etc. Using normative ethical theories as our tools for ethical thinking, we will navigate the complex terrain of today's pressing moral and societal issues. Rather than prescribing fixed answers to moral dilemmas, the course fosters an environment where each of us can actively engage with ethical questions, encouraging the development of unique ethical perspectives. The learning objectives include developing abilities to: understand various moral dimensions of contemporary social issues; correctly apply normative ethical theories to concrete cases; develop an informed perspective about ethical and social issues; express your ideas through critical writing and oral presentation.
+  
+ </blockquote>
+  
+</details>
+
+
 ### Introduction to Philosophy
 
 _PHI 1, UC Davis, Spring 2023_
