@@ -10,7 +10,7 @@ Many of my current research projects revolve around the intersection of general 
 ## Publications
 
 ### From Indeterminacy in a Fundamental Theory to Fundamental Indeterminacy?
-_Analytic Philosophy_, forthcoming. [[Official link]](https://doi.org/10.1111/phib.12297)) [[Philpapers]](https://philpapers.org/rec/LEEFII)) 
+_Analytic Philosophy_, forthcoming. [[Official link]](https://doi.org/10.1111/phib.12297) [[Philpapers]](https://philpapers.org/rec/LEEFII) 
 <details>
 <summary>Abstract</summary>
 
