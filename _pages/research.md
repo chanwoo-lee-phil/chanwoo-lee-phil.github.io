@@ -9,6 +9,18 @@ Many of my current research projects revolve around the intersection of general 
 
 ## Publications
 
+### From Indeterminacy in a Fundamental Theory to Fundamental Indeterminacy?
+_Analytic Philosophy_, forthcoming. [[Official link]](https://doi.org/10.1111/phib.12297)) [[Philpapers]](https://philpapers.org/rec/LEEFII)) 
+<details>
+<summary>Abstract</summary>
+
+<blockquote>
+In this paper, I examine a case for fundamental indeterminacy (FI) by Elizabeth Barnes and offer my counterarguments. Barnes’ account of FI includes both the characterization of FI and why we need to accept it. I argue that her reasons for accepting FI can be challenged even when we accept her characterization of FI. Her main claim is that finding a fundamental proposition that our fundamental theory is indeterminate about (FPF) gives us a reason to accept FI in metaphysics. I challenge her claim by pointing out more plausible options to address FPFs. An FPF may either indicate that the theory is non-fundamental or lead us to accept the anti-realist view; there is no room for FI in either option. One may insist on accepting FI, but I argue that it is not theoretically rewarding enough. Hence, Barnes’ case for FI can be contested.
+</blockquote>
+  
+</details>
+
+
 ### What Analytic Metaphysics Can Do For Scientific Metaphysics
 _Ratio_, 2023. [[Official link]](https://doi.org/10.1111/rati.12379) [[Philpapers]](https://philpapers.org/rec/LEEWAM) [[PhilSci-Archive]](http://philsci-archive.pitt.edu/22118/)
 
@@ -23,16 +35,6 @@ The apparent chasm between two camps in metaphysics, analytic metaphysics and sc
 </details>
   
 
-### From Indeterminacy in a Fundamental Theory to Fundamental Indeterminacy?
-_Analytic Philosophy_, forthcoming. [[Preprint]](https://chanwoo-lee-phil.github.io/images/CL_(Fundamental_Indeterminacy)_Preprint.pdf) 
-<details>
-<summary>Abstract</summary>
-
-<blockquote>
-In this paper, I examine a case for fundamental indeterminacy (FI) by Elizabeth Barnes and offer my counterarguments. Barnes’ account of FI includes both the characterization of FI and why we need to accept it. I argue that her reasons for accepting FI can be challenged even when we accept her characterization of FI. Her main claim is that finding a fundamental proposition that our fundamental theory is indeterminate about (FPF) gives us a reason to accept FI in metaphysics. I challenge her claim by pointing out more plausible options to address FPFs. An FPF may either indicate that the theory is non-fundamental or lead us to accept the anti-realist view; there is no room for FI in either option. One may insist on accepting FI, but I argue that it is not theoretically rewarding enough. Hence, Barnes’ case for FI can be contested.
-</blockquote>
-  
-</details>
 
 ### The Structuralist Approach to Underdetermination
 _Synthese_, 2022. [[Official link]](https://doi.org/10.1007/s11229-022-03495-3) [[Philpapers]](https://philpapers.org/rec/LEETSA-12) [[PhilSci-Archive]](http://philsci-archive.pitt.edu/20367/)
