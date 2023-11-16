@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Recent and Upcoming Events
+ * 20-23 March 2024. "Category Theory as an Explanatory Foundation". Pacific APA Colloquium, Portland
+ * 21-24 February 2024. "Metaphysical Perspicuity". Central APA Poster Session, New Orleans
  * 5 January 2024. "Category Theory as an Explanatory Foundation". Joint Mathematics Meetings: AMS Special Session on Mathematics and Philosophy, San Francisco
  * 5 November 2023. "Category Theory as an Explanatory Foundation". Midwest PhilMath Workshop, University of Notre Dame 
  * 27 September 2023. “Conceptions of a Foundation in Mathematics”. Philosophy Colloquium Series, California State University, Chico
