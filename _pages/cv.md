@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[**Curriculum Vitae**](/images/CV.pdf)
+[**Curriculum Vitae**](/images/CV-ChanwooLee.pdf)
 
 
 
