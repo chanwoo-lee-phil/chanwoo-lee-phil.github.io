@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "자료"
-permalink: /resources/
+permalink: /resources-k/
 author_profile: true
 ---
 
