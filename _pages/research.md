@@ -47,6 +47,10 @@ This paper provides an exposition of the structuralist approach to underdetermin
   
 </details>
   
+
+<!--
+
+
 ## Dissertation Project
 
 The working title of my dissertation is "Category-theoretic Structuralism as a Foundation of Mathematics." My project investigates the foundational roles of a category-theoretic (CT) framework. I ask how CT can be autonomous and consider its appeal as a foundational framework. I approach this question from more general and diverse perspectives, considering their implications on CT.
@@ -62,7 +66,7 @@ In Chapter 4, I link the debates on CT-foundation with the growing scholarship o
 In Chapter 5, I argue that the classic metaphor of CT as 'the language of mathematics' can be explicated using the notion of metaphysical perspicuity. I analyze the notion of metaphysical perspicuity, which has begun to receive philosophical interest in many subfields, and challenge some common conceptions about the notion. This will allow us to better understand the appeal of CT as the language of mathematics based on other notable cases.
 
 
-<!--
+
 
 <sup>[[Preprint]](https://chanwoo-lee-phil.github.io/images/CL_(Fundamental_Indeterminacy)_Preprint.pdf) </sup>
 
