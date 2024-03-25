@@ -51,7 +51,7 @@ This course offers a thematic introduction to philosophy; we will go through var
 </details>
 
 ## Teaching Assistant 
-<details>
+<details markdown=1>
 <summary markdown='span'>The list of courses</summary>
   
 * Appraising Scientific Reasoning (_PHI 31, UC Davis_): Fall 2021, Winter 2022 <be>
