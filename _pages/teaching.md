@@ -54,7 +54,7 @@ This course offers a thematic introduction to philosophy; we will go through var
 <details>
 <summary>The list of courses</summary>
   
-* Appraising Scientific Reasoning (_PHI 31, UC Davis_): Fall 2021, Winter 2022
+* Appraising Scientific Reasoning (_PHI 31, UC Davis_): Fall 2021, Winter 2022 <be>
 
 * Critical Reasoning (_PHI 5, UC Davis_): Winter 2020
 
