@@ -54,25 +54,25 @@ This course offers a thematic introduction to philosophy; we will go through var
 <details>
 <summary>The list of courses</summary>
   
-**Appraising Scientific Reasoning** (_PHI 31, UC Davis_): Fall 2021, Winter 2022
+* Appraising Scientific Reasoning (_PHI 31, UC Davis_): Fall 2021, Winter 2022
 
-**Critical Reasoning** (_PHI 5, UC Davis_): Winter 2020
+* Critical Reasoning (_PHI 5, UC Davis_): Winter 2020
 
-**Ethical and Social Problems in Contemporary Society** (_PHI 14, UC Davis_): Spring 2022
+* Ethical and Social Problems in Contemporary Society (_PHI 14, UC Davis_): Spring 2022
 
-**Introduction to Bioethics** (_PHI 15, UC Davis_): Fall 2022
+* Introduction to Bioethics (_PHI 15, UC Davis_): Fall 2022
 
-**Introduction to Philosophy** (_PHI 1, UC Davis_): Spring 2020
+* Introduction to Philosophy (_PHI 1, UC Davis_): Spring 2020
 
-**Introduction to Philosophy of Biology** (_PHI 38, UC Davis_): Spring 2021, Winter 2023
+* Introduction to Philosophy of Biology (_PHI 38, UC Davis_): Spring 2021, Winter 2023
 
-**Introduction to Philosophy of Science** (_PHI 30, UC Davis_): Winter 2021
+* Introduction to Philosophy of Science (_PHI 30, UC Davis_): Winter 2021
 
-**Introduction to Symbolic Logic** (_PHI 12, UC Davis_): Fall 2020
+* Introduction to Symbolic Logic (_PHI 12, UC Davis_): Fall 2020
 
-**Minds, Brains, Computers** (_PHI 13, UC Davis_): Fall 2019
+* Minds, Brains, Computers (_PHI 13, UC Davis_): Fall 2019
 
-**Understanding Western Philosophy** (_024.013, SNU_): Fall 2015, Spring 2016
+* Understanding Western Philosophy (_024.013, SNU_): Fall 2015, Spring 2016
 
 </details>
 
