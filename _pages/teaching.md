@@ -52,7 +52,7 @@ This course offers a thematic introduction to philosophy; we will go through var
 
 ## Teaching Assistant 
 <details>
-<summary>The list of courses</summary>
+<summary markdown='span'>The list of courses</summary>
   
 * Appraising Scientific Reasoning (_PHI 31, UC Davis_): Fall 2021, Winter 2022 <be>
 
@@ -75,6 +75,8 @@ This course offers a thematic introduction to philosophy; we will go through var
 * Understanding Western Philosophy (_024.013, SNU_): Fall 2015, Spring 2016
 
 </details>
+
+
 
 
 
