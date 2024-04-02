@@ -50,6 +50,16 @@ This course offers a thematic introduction to philosophy; we will go through var
   
 </details>
 
+
+
+
+
+
+
+
+
+
+<!--
 ## Teaching Assistant 
 <details markdown=1>
 <summary markdown='span'>The list of courses</summary>
@@ -75,15 +85,6 @@ This course offers a thematic introduction to philosophy; we will go through var
 * Understanding Western Philosophy (_024.013, SNU_): Fall 2015, Spring 2016
 
 </details>
-
-
-
-
-
-
-
-
-<!--
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
