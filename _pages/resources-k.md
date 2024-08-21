@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 [양상논리 맛보기 (PhilArchive)](https://philpapers.org/rec/TRUTEK)
-
+[Temp](https://docs.google.com/presentation/d/1-jDoPs-xptbEJdepcQt3CoqjFLkOsRrVIUF8QjIooxE/edit?usp=sharing)
