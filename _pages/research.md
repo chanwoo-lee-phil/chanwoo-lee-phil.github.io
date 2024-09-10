@@ -5,7 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-Many of my current research projects revolve around the intersection of general philosophy of science, metaphysics, and philosophy of mathematics. I believe that the synergy between these areas can lead to more exciting inquiries. 
+Many of my current research projects revolve around the intersection of general philosophy of science, metaphysics, and philosophy of mathematics.
+
+Also, I have a growing interest in applied ethics, especially regarding population ethics and existential risks.
 
 ## Publications
 
@@ -20,6 +22,9 @@ _Ratio_, 36 (3). [[Official link]](https://doi.org/10.1111/rati.12379) [[Philpap
 Chanwoo Lee (2022). **"The Structuralist Approach to Underdetermination"**. _Synthese_, 200: 108. [[Official link]](https://doi.org/10.1007/s11229-022-03495-3) [[Philpapers]](https://philpapers.org/rec/LEETSA-12) [[PhilSci-Archive]](http://philsci-archive.pitt.edu/20367/) 
 
 <!--
+
+. I believe that the synergy between these areas can lead to more exciting inquiries. 
+
 
 ### From Indeterminacy in a Fundamental Theory to Fundamental Indeterminacy?
 _Analytic Philosophy_, forthcoming. [[Official link]](https://doi.org/10.1111/phib.12297) [[Philpapers]](https://philpapers.org/rec/LEEFII) 
