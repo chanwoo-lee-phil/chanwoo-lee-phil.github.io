@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently lecturing philosophy at [Chung-Ang University](https://neweng.cau.ac.kr/), [Seoul National University](https://en.snu.ac.kr/), and [Sungkyunkwan University](https://www.skku.edu/eng/).
 
-Many of my current research interest lie in various strands of structuralism, e.g., structuralism in philosophy of mathematics and structural realism in philosophy of science. I also have interests in metaphysics of science, philosophy of logic, applied ethics, etc.
+Many of my current research interests lie in various strands of structuralism, e.g., structuralism in philosophy of mathematics and structural realism in philosophy of science. I also have interests in philosophy of logic, applied ethics, etc.
 
 I received my PhD in philosophy from [UC Davis](https://philosophy.ucdavis.edu/) and my BA and MA from [Seoul National University](https://en.snu.ac.kr/).
 
