@@ -7,6 +7,25 @@ author_profile: true
 
 ## Primary Instructor
 
+ * **Appraising Scientific Reasoning:** UC Davis (Summer 2022, 2023)
+ * **Ethical and Social Problems in Contemporary Society:** UC Davis (Fall 2023)
+ * **Introduction to Philosophy:** UC Davis (Spring 2023), Sungkyunkwan University (Fall 2024)
+ * **Logic:** Chung-Ang University (Fall 2024)
+ * **Philosophical Understanding of Science:** Seoul National University (Fall 2024)
+ * [_Graduate Seminar_] **Topics in Main Currents of Contemporary Philosophy (Science, Metaphysics,
+and Philosophy as Stance):** Sungkyunkwan University (Fall 2024)
+
+
+
+
+
+
+
+
+
+
+<!--
+
 ### Appraising Scientific Reasoning
 
 _PHI 31, UC Davis, Summer 2022, 2023_
@@ -54,12 +73,6 @@ This course offers a thematic introduction to philosophy; we will go through var
 
 
 
-
-
-
-
-
-<!--
 ## Teaching Assistant 
 <details markdown=1>
 <summary markdown='span'>The list of courses</summary>
