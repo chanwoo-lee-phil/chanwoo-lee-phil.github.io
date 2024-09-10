@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Chanwoo Lee"
 title_separator          : "-"
-name                     : "Chanwoo Lee" #&name 
+name                     : "이찬우 Chanwoo Lee" #&name 
 description              :  "Chanwoo Lee's professional philosophy homepage" # &description
 url                      : https://chanwoo-lee-phil.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
