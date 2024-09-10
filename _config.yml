@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chanwoo Lee"
+  name             : "이찬우 Chanwoo Lee"
   avatar           : "Small_2.jpg"# 사진 넣기
   bio              : "Philosopher"
   location         : 
   employer         :
   pubmed           : 
-  departmentpage   : "https://philosophy.ucdavis.edu/people/clee5576/"
+  departmentpage   : 
   philpapers        : "https://philpeople.org/profiles/chanwoo-lee"
   googlescholar    : "https://scholar.google.com/citations?user=T-aPWowAAAAJ"
   email            : "chanwoo.lee.phil@gmail.com"
