@@ -3,6 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+sitemap: true
 ---
 
 Many of my current research projects revolve around the intersection of general philosophy of science, metaphysics, and philosophy of mathematics.
