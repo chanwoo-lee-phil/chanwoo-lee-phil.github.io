@@ -9,6 +9,18 @@ Many of my current research projects revolve around the intersection of general 
 
 ## Publications
 
+Chanwoo Lee (Forthcoming). **"Intertranslatability and Ground-Equivalence"**. 
+_Erkenntnis_, Available Online. [[Official Link]](https://doi.org/10.1007/s10670-024-00830-7) [[Philpapers]](https://philpapers.org/rec/LEEIAG-2)
+
+Chanwoo Lee (Forthcoming). **"From Indeterminacy in a Fundamental Theory to Fundamental Indeterminacy?"**. _Analytic Philosophy_, Available Online. [[Official link]](https://doi.org/10.1111/phib.12297) [[Philpapers]](https://philpapers.org/rec/LEEFII) 
+
+Chanwoo Lee (2023). **"What Analytic Metaphysics Can Do For Scientific Metaphysics"**. 
+_Ratio_, 36 (3). [[Official link]](https://doi.org/10.1111/rati.12379) [[Philpapers]](https://philpapers.org/rec/LEEWAM) [[PhilSci-Archive]](http://philsci-archive.pitt.edu/22118/)
+
+Chanwoo Lee (2022). **"The Structuralist Approach to Underdetermination"**. _Synthese_, 200: 108. [[Official link]](https://doi.org/10.1007/s11229-022-03495-3) [[Philpapers]](https://philpapers.org/rec/LEETSA-12) [[PhilSci-Archive]](http://philsci-archive.pitt.edu/20367/) 
+
+<!--
+
 ### From Indeterminacy in a Fundamental Theory to Fundamental Indeterminacy?
 _Analytic Philosophy_, forthcoming. [[Official link]](https://doi.org/10.1111/phib.12297) [[Philpapers]](https://philpapers.org/rec/LEEFII) 
 <details>
@@ -46,9 +58,7 @@ This paper provides an exposition of the structuralist approach to underdetermin
 </blockquote>
   
 </details>
-  
 
-<!--
 
 
 ## Dissertation Project
