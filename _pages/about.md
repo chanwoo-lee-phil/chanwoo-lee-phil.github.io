@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a philosophy PhD student in the [Department of Philosophy, UC Davis.](https://philosophy.ucdavis.edu/)
+I am currently a philosophy lecturer at [Chung-Ang University](https://neweng.cau.ac.kr/), [Seoul National University](https://en.snu.ac.kr/), and [Sungkyunkwan University](https://www.skku.edu/eng/).
 
-My primary research interest lies in various strands of structuralism, e.g., structuralism in philosophy of mathematics and structural realism in philosophy of science. As a dissertation project, I study the prospect of category theory as a foundation of mathematics. I also have interests in metaphysics of science, philosophy of logic, applied ethics, etc.
+Many of my current research interest lie in various strands of structuralism, e.g., structuralism in philosophy of mathematics and structural realism in philosophy of science. I also have interests in metaphysics of science, philosophy of logic, applied ethics, etc.
 
-Before coming to UC Davis, I attended [Seoul National University](https://en.snu.ac.kr/), where I received my BA and MA in philosophy.
+I received my PhD in philosophy from [UC Davis](https://philosophy.ucdavis.edu/) and my BA and MA from [Seoul National University](https://en.snu.ac.kr/).
 
 You can find my CV [here](https://chanwoo-lee-phil.github.io/cv/).
 
@@ -25,6 +25,11 @@ _(Photo credit: [Danielle J. Williams](https://www.daniellejwilliams.com/))_
 
 
 <!-- 
+
+As a dissertation project, I study the prospect of category theory as a foundation of mathematics.
+
+
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 # A data-driven personal website
