@@ -15,6 +15,7 @@ author_profile: true
  * [_Graduate Seminar_] **Topics in Main Currents of Contemporary Philosophy (Science, Metaphysics,
 and Philosophy as Stance):** Sungkyunkwan University (Fall 2024)
 
+_Syllabi available upon request_
 
 
 
