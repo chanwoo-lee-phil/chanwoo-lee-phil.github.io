@@ -6,9 +6,15 @@ author_profile: true
 sitemap: true
 ---
 
-Many of my current research projects revolve around the intersection of general philosophy of science, metaphysics, and philosophy of mathematics.
+Many of my current research projects revolve around the intersection of general philosophy of science, metaphysics, and philosophy of mathematics. 
 
-Also, I have a growing interest in applied ethics, especially regarding population ethics and existential risks.
+In _philosophy of science_, I am currently interested in some of the open problems in structural realism, and I am also interested in the methodological issue of scientific practice (e.g., the use of machine learning models), which I take to be continuous with the philosophy of mathematical practice. 
+
+In _philosophy of mathematics_ too, many of my current projects concern the themes around (mathematical) structuralism. More specifically, I am interested in the philosophy of category theory and how mathematical practice may inform the relevant debates.
+
+I take such topics in philosophy of science and mathematics to be continuous with some of the fundamental themes in _metaphysics_. Ontological nihilism, for example, is one of the topics in metaphysics I am delving further into. I am also interested in many aspects of the metaphysics of science movement. In a similar vein, some of the continuous topics in _philosophy of logic_ are of great interest to me, e.g., what to make of the impact of empirical sciences in logic, what to make of the ontological commitment of logical theories, etc.
+
+Recently, I am getting more interested in some of the topics in _applied ethics_ as well, especially regarding population ethics and existential risks.
 
 ## Publications
 
