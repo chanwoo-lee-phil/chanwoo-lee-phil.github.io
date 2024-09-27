@@ -12,7 +12,7 @@ In _philosophy of science_, I am interested in many open problems in structural 
 
 In _philosophy of mathematics_ too, many of my current projects concern the themes around (mathematical) structuralism. More specifically, I am interested in the philosophy of category theory and how mathematical practice may inform the relevant debates.
 
-I take such topics in philosophy of science and mathematics to be continuous with many fundamental themes in _metaphysics_. For example, I am delving into ontological nihilism and metaphysical indeterminacy, the topics which are especially relevant in the metaphysics of science. In a similar vein, the neighboring topics in _philosophy of logic_ are of great interest to me, e.g., what to make of the impact of empirical sciences in logic, what to make of the ontological commitment of logical theories, etc.
+I take such topics in philosophy of science and mathematics to be continuous with many fundamental themes in _metaphysics_. For example, ontological nihilism and metaphysical indeterminacy are some of the topics in metaphysics I am delving into, especially given their relevance in the metaphysics of science. In a similar vein, the neighboring topics in _philosophy of logic_ are of great interest to me, e.g., what to make of the impact of empirical sciences in logic, what to make of the ontological commitment of logical theories, etc.
 
 Recently, I have also become more interested in some of the topics in _applied ethics_, especially regarding population ethics and existential risks.
 
