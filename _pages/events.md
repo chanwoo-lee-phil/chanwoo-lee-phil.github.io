@@ -11,14 +11,15 @@ author_profile: true
  * 30 August 2024. "How We Learned to Stop Worrying and Love 'Model' in Mathematics". 9th Annual Conference of the Society for the Metaphysics of Science
  * 21 August 2024. "When Structuralism Meets Inferentialism". Korean Society for Analytic Philosophy Summer Conference, Hankuk University of Foreign Studies
  * 13 August 2024. "Model-theoretic Inferentialism". Korean Association for Logic Summer Conference, Yonsei University
- * 21 March 2024. "Category Theory as an Explanatory Foundation". Pacific APA Colloquium, Portland
- * 23 February 2024. "Metaphysical Perspicuity". Central APA Poster Session, New Orleans
- * 5 January 2024. "Category Theory as an Explanatory Foundation". Joint Mathematics Meetings: AMS Special Session on Mathematics and Philosophy, San Francisco
+
 
 
 
 
 <!--
+ * 21 March 2024. "Category Theory as an Explanatory Foundation". Pacific APA Colloquium, Portland
+ * 23 February 2024. "Metaphysical Perspicuity". Central APA Poster Session, New Orleans
+ * 5 January 2024. "Category Theory as an Explanatory Foundation". Joint Mathematics Meetings: AMS Special Session on Mathematics and Philosophy, San Francisco
  * 5 November 2023. "Category Theory as an Explanatory Foundation". Midwest PhilMath Workshop, University of Notre Dame 
  * 27 September 2023. “Conceptions of a Foundation in Mathematics”. Philosophy Colloquium Series, California State University, Chico
  * 11 August 2023. Comment on Sabrina Hao's "What are scientists talking about when they talk about particles?". Society for the Metaphysics of Science 2023 Conference, Dalhousie University
