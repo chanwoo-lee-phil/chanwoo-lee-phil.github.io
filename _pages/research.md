@@ -14,7 +14,7 @@ In _philosophy of mathematics_ too, many of my current projects concern the them
 
 I take such topics in philosophy of science and mathematics to be continuous with many fundamental themes in _metaphysics_. For example, ontological nihilism and metaphysical indeterminacy are some of the topics in metaphysics I am delving into, especially given their relevance in the metaphysics of science. In a similar vein, the neighboring topics in _philosophy of logic_ are of great interest to me, e.g., what to make of the impact of empirical sciences in logic, what to make of the ontological commitment of logical theories, etc.
 
-Recently, I have also become more interested in some of the topics in _applied ethics_, especially regarding population ethics and existential risks.
+Also, I am developing independent interests in _applied ethics_, especially regarding population ethics and existential risks.
 
 ## Publications
 
