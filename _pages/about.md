@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently lecturing philosophy at [Chung-Ang University](https://neweng.cau.ac.kr/), [Seoul National University](https://en.snu.ac.kr/), and [Sungkyunkwan University](https://www.skku.edu/eng/).
 
-My current [research](https://chanwoo-lee-phil.github.io/research/) mainly straddles philosophy of science, philosophy of mathematics, and metaphysics. I am also interested in the topics of applied ethics.
+My current [research](https://chanwoo-lee-phil.github.io/research/) mainly concerns philosophy of science, philosophy of mathematics and metaphysics, but I am always excited to study and explore new topics, which I think is one of the greatest aspects of my profession.
 
 I received my PhD in philosophy from [UC Davis](https://philosophy.ucdavis.edu/) and my BA and MA from [Seoul National University](https://en.snu.ac.kr/).
 
