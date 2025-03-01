@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[**Curriculum Vitae**](/images/CV-ChanwooLee.pdf)
+[**Curriculum Vitae (Download)**](/images/CV-ChanwooLee.pdf)
 
 <embed src="https://chanwoo-lee-phil.github.io/images/CV-ChanwooLee.pdf" type="application/pdf">
 
