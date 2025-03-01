@@ -12,7 +12,7 @@ I am an assistant professor at [Dasan University College, Ajou University](https
 
 My [current research](https://chanwoo-lee-phil.github.io/research/) mainly concerns philosophy of science, philosophy of mathematics and metaphysics, but I am always excited to explore new topics, which I think is one of the greatest boons of my profession.
 
-I received my PhD in philosophy from [UC Davis](https://philosophy.ucdavis.edu/) and my BA and MA from [Seoul National University](https://en.snu.ac.kr/).
+I received my PhD in philosophy from [University of California, Davis](https://philosophy.ucdavis.edu/) and my BA and MA from [Seoul National University](https://en.snu.ac.kr/).
 
 You can find my CV [here](https://chanwoo-lee-phil.github.io/cv/).
 
