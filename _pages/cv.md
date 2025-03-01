@@ -11,7 +11,7 @@ redirect_from:
 
 [**Curriculum Vitae**](/images/CV-ChanwooLee.pdf)
 
-
+<a href="/images/CV-ChanwooLee.pdf" class="image fit">
 
 
 
