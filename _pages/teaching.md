@@ -5,17 +5,17 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Chung-Ang University
+## Chung-Ang University
  * **Logic:** Fall 2024
 
-### Seoul National University
+## Seoul National University
  * **Philosophical Understanding of Science:** Fall 2024
 
-### Sungkyunkwan University 
+## Sungkyunkwan University 
  * **Introduction to Philosophy:** Fall 2024
  * [_Graduate Seminar_] **Topics in Main Currents of Contemporary Philosophy (Science, Metaphysics, and Philosophy as Stance):** Fall 2024  
 
-### UC Davis
+## UC Davis
  * **Appraising Scientific Reasoning:** Summer 2022, 2023
  * **Ethical and Social Problems in Contemporary Society:** Fall 2023
  * **Introduction to Philosophy:** Spring 2023
