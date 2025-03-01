@@ -5,16 +5,21 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Primary Instructor
+### Chung-Ang University
+ * **Logic:** Fall 2024
 
- * **Appraising Scientific Reasoning:** UC Davis (Summer 2022, 2023)
- * **Ethical and Social Problems in Contemporary Society:** UC Davis (Fall 2023)
- * **Introduction to Philosophy:** UC Davis (Spring 2023), Sungkyunkwan University (Fall 2024)
- * **Logic:** Chung-Ang University (Fall 2024)
- * **Philosophical Understanding of Science:** Seoul National University (Fall 2024)
- * [_Graduate Seminar_] **Topics in Main Currents of Contemporary Philosophy (Science, Metaphysics,
-and Philosophy as Stance):** Sungkyunkwan University (Fall 2024)
+### Seoul National University
+ * **Philosophical Understanding of Science:** Fall 2024
 
+### Sungkyunkwan University 
+ * **Introduction to Philosophy:** Fall 2024
+ * [_Graduate Seminar_] **Topics in Main Currents of Contemporary Philosophy (Science, Metaphysics, and Philosophy as Stance):** Fall 2024  
+
+### UC Davis
+ * **Appraising Scientific Reasoning:** Summer 2022, 2023
+ * **Ethical and Social Problems in Contemporary Society:** Fall 2023
+ * **Introduction to Philosophy:** Spring 2023
+ 
 _Syllabi available upon request_
 
 
