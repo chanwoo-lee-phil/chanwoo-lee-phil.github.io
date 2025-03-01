@@ -28,14 +28,16 @@ _Ratio_, 36 (3). [[Official link]](https://doi.org/10.1111/rati.12379) [[Philpap
 
 Chanwoo Lee (2022). **"The Structuralist Approach to Underdetermination"**. _Synthese_, 200: 108. [[Official link]](https://doi.org/10.1007/s11229-022-03495-3) [[Philpapers]](https://philpapers.org/rec/LEETSA-12) [[PhilSci-Archive]](http://philsci-archive.pitt.edu/20367/) 
 
-## In Progress
+## In Progress / Under Review
  * A paper on the practice-oriented approach to philosophy of science
- * A paper on the existential risks regarding the humanity and the Korean people
+ * A paper on the existential risks regarding humanity and the Korean people
  * A paper on the very notion of the 'foundation of mathematics'
  * A paper on mathematical inferentialism
  * A paper on mathematical explanation and category theory
+ * A paper on the model-theoretic version of inferentialism
  * A paper on the notion of perspicuity in metaphysics
  * A paper on the genesis of 'model' in mathematics
+ * A paper on philosophical/epistemic stances from the Lakatosian perspective
 
 
 
