@@ -38,6 +38,7 @@ Chanwoo Lee (2022). **"The Structuralist Approach to Underdetermination"**. _Syn
  * A paper on the notion of perspicuity in metaphysics
  * A paper on the genesis of 'model' in mathematics
  * A paper on philosophical/epistemic stances from the Lakatosian perspective
+ * A paper on the person-affecting account of benefits and harms
 
 
 
