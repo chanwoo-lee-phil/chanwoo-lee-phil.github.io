@@ -6,7 +6,6 @@ author_profile: true
 sitemap: false
 ---
 
+https://docs.google.com/presentation/d/1quxzqKsIwtX5tEWPi_S3wtYwxyZhTheA/edit?usp=drive_link&ouid=116643046087452354852&rtpof=true&sd=true
 
-https://drive.google.com/file/d/1g4mQJv_SXNEZVMZV4eZeH32bTUW4TLxL/view?usp=sharing
-
-https://drive.google.com/file/d/1S83dgzU48mh3POgrlgmX0s66q0htrOZk/view?usp=sharing
+https://docs.google.com/presentation/d/1xz3Lp2iJrTL8EPj3yXROFQz88w_FJBGhRZMpLvM6s0E/edit?usp=drive_link
