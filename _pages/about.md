@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at [Dasan University College, Ajou University](https://ajou.ac.kr/uc-en/). Before joining Ajou, I taught philosophy at [CAU](https://neweng.cau.ac.kr/), [SNU](https://en.snu.ac.kr/), [SKKU](https://www.skku.edu/eng/), and [UC Davis](https://philosophy.ucdavis.edu/).
+I am an assistant professor at [Dasan University College, Ajou University](https://ajou.ac.kr/uc-en/). Before joining Ajou, I taught philosophy at [CAU](https://neweng.cau.ac.kr/), [SNU](https://en.snu.ac.kr/), [SKKU](https://skb.skku.edu/eng_philosophy/), and [UC Davis](https://philosophy.ucdavis.edu/).
 
 My [current research](https://chanwoo-lee-phil.github.io/research/) mainly concerns philosophy of science, philosophy of mathematics and metaphysics, but I am always excited to explore new topics, which I think is one of the greatest boons of my profession.
 
