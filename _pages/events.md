@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Recent and Upcoming Events
+ * 30 June - 2 July 2025. "A Lakatosian Against Stance". Society for the Metaphysics of Science 2025 Conference, Università della Svizzera italiana
  * 3 January 2025. "A Lakatosian Against Stance". The Institute for Philosophy and Liberal Arts, Sungkyunkwan University
  * 15 November 2024. "Metaphysical Perspicuity". 29th Biennial Meeting of the Philosophy of Science Association, New Orleans
  * 5 November 2024. "Category Theory as an Explanatory Foundation". 14th Disputatio Workshop, Kyungnam University
