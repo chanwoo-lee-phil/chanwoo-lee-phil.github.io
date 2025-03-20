@@ -17,7 +17,7 @@ author_profile: true
 
 ## Sungkyunkwan University 
  * **Introduction to Philosophy:** Fall 2024
- * [_Graduate Seminar_] **Topics in Main Currents of Contemporary Philosophy (Science, Metaphysics, and Philosophy as Stance):** Fall 2024  
+ * **Topics in Main Currents of Contemporary Philosophy (Science, Metaphysics, and Philosophy as Stance)** [_Graduate Seminar_]: Fall 2024  
 
 ## University of California, Davis
  * **Appraising Scientific Reasoning:** Summer 2022, 2023
