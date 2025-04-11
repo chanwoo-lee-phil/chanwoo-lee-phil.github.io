@@ -21,7 +21,7 @@ Also, I am developing independent interests in _applied ethics_, especially rega
 Chanwoo Lee (Forthcoming). **"Intertranslatability and Ground-Equivalence"**. 
 _Erkenntnis_, Available Online. [[Official Link]](https://doi.org/10.1007/s10670-024-00830-7) [[Philpapers]](https://philpapers.org/rec/LEEIAG-2)
 
-Chanwoo Lee (Forthcoming). **"From Indeterminacy in a Fundamental Theory to Fundamental Indeterminacy?"**. _Analytic Philosophy_, Available Online. [[Official link]](https://doi.org/10.1111/phib.12297) [[Philpapers]](https://philpapers.org/rec/LEEFII) 
+Chanwoo Lee (2025). **"From Indeterminacy in a Fundamental Theory to Fundamental Indeterminacy?"**. _Analytic Philosophy_, 66 (1). [[Official link]](https://doi.org/10.1111/phib.12297) [[Philpapers]](https://philpapers.org/rec/LEEFII) 
 
 Chanwoo Lee (2023). **"What Analytic Metaphysics Can Do For Scientific Metaphysics"**. 
 _Ratio_, 36 (3). [[Official link]](https://doi.org/10.1111/rati.12379) [[Philpapers]](https://philpapers.org/rec/LEEWAM) [[PhilSci-Archive]](http://philsci-archive.pitt.edu/22118/)
