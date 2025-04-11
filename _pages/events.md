@@ -6,16 +6,14 @@ author_profile: true
 ---
 
 ## Recent and Upcoming Events
- * 30 June - 2 July 2025. "A Lakatosian Against Stance". Society for the Metaphysics of Science 2025 Conference, Università della Svizzera italiana
+ * 1 July 2025. "A Lakatosian Against Stance". Society for the Metaphysics of Science 2025 Conference, Università della Svizzera italiana
+ * 27 June 2025. Comment on HyeJeong Han's "AI Researchers, Experimenters, and an Activity-centric Approach to Persuasion". Sungkyunkwan University
+ * 21 April 2025. "Theoretical Equivalence, Metaphysical Grounding, Anti-Exceptionalism". Korean Association for Logic Monthly Seminar
  * 3 January 2025. "A Lakatosian Against Stance". The Institute for Philosophy and Liberal Arts, Sungkyunkwan University
- * 15 November 2024. "Metaphysical Perspicuity". 29th Biennial Meeting of the Philosophy of Science Association, New Orleans
- * 5 November 2024. "Category Theory as an Explanatory Foundation". 14th Disputatio Workshop, Kyungnam University
-
-
-
-
 
 <!--
+ * 15 November 2024. "Metaphysical Perspicuity". 29th Biennial Meeting of the Philosophy of Science Association, New Orleans
+ * 5 November 2024. "Category Theory as an Explanatory Foundation". 14th Disputatio Workshop, Kyungnam University
  * 30 August 2024. "How We Learned to Stop Worrying and Love 'Model' in Mathematics". 9th Annual Conference of the Society for the Metaphysics of Science
  * 21 August 2024. "When Structuralism Meets Inferentialism". Korean Society for Analytic Philosophy Summer Conference, Hankuk University of Foreign Studies
  * 13 August 2024. "Model-theoretic Inferentialism". Korean Association for Logic Summer Conference, Yonsei University
