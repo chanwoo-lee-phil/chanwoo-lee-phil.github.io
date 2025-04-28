@@ -8,6 +8,7 @@ author_profile: true
 ## Recent and Upcoming Events
  * 1 July 2025. "A Lakatosian Against Stance". Society for the Metaphysics of Science 2025 Conference, Università della Svizzera italiana
  * 27 June 2025. Comment on HyeJeong Han's "AI Researchers, Experimenters, and an Activity-centric Approach to Persuasion". Sungkyunkwan University
+ * 31 May 2025. "Does ‘Free Will’ Describe Free Will?". The Interdisciplinary Conference on Experiments and Concepts, Pusan National University
  * 21 April 2025. "Theoretical Equivalence, Metaphysical Grounding, Anti-Exceptionalism". Korean Association for Logic Monthly Seminar
  * 3 January 2025. "A Lakatosian Against Stance". The Institute for Philosophy and Liberal Arts, Sungkyunkwan University
 
