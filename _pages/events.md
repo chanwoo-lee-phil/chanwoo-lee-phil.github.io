@@ -11,9 +11,10 @@ author_profile: true
  * 31 May 2025. "Does ‘Free Will’ Describe Free Will?". The Interdisciplinary Conference on Experiments and Concepts, Pusan National University
  * 24 May 2025. "In Defense of Scientific Metaphysics". Korean Society for Analytic Philosophy Spring Conference, Yonsei University
  * 21 April 2025. "Theoretical Equivalence, Metaphysical Grounding, Anti-Exceptionalism". Korean Association for Logic Monthly Seminar
- * 3 January 2025. "A Lakatosian Against Stance". The Institute for Philosophy and Liberal Arts, Sungkyunkwan University
+
 
 <!--
+ * 3 January 2025. "A Lakatosian Against Stance". The Institute for Philosophy and Liberal Arts, Sungkyunkwan University
  * 15 November 2024. "Metaphysical Perspicuity". 29th Biennial Meeting of the Philosophy of Science Association, New Orleans
  * 5 November 2024. "Category Theory as an Explanatory Foundation". 14th Disputatio Workshop, Kyungnam University
  * 30 August 2024. "How We Learned to Stop Worrying and Love 'Model' in Mathematics". 9th Annual Conference of the Society for the Metaphysics of Science
