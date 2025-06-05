@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Recent and Upcoming Events
+ * 2 July 2025. Comment on Alastair Wilson's "Explanations of and in Worlds". Society for the Metaphysics of Science 2025 Conference, Università della Svizzera italiana
  * 1 July 2025. "A Lakatosian Against Stance". Society for the Metaphysics of Science 2025 Conference, Università della Svizzera italiana
  * 27 June 2025. Comment on HyeJeong Han's "AI Researchers, Experimenters, and an Activity-centric Approach to Persuasion". Sungkyunkwan University
  * 31 May 2025. "Does ‘Free Will’ Describe Free Will?". The Interdisciplinary Conference on Experiments and Concepts, Pusan National University
