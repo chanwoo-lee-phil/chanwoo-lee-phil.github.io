@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Recent and Upcoming Events
+ * 11 August 2025. "Mathematical Structuralism: Now and Beyond". 21st Workshop of Korean Society for Analytic Philosophy Graduate Student Division (Keynote address), Seoul National University
  * 17 July 2025. "Structuralism as an Explanatory Thesis". AI, Logic, Language, and Epistemology Workshop, Yonsei University
  * 2 July 2025. Comment on Alastair Wilson's "Explanations of and in Worlds". Society for the Metaphysics of Science 2025 Conference, Università della Svizzera italiana
  * 1 July 2025. "A Lakatosian Against Stance". Society for the Metaphysics of Science 2025 Conference, Università della Svizzera italiana
