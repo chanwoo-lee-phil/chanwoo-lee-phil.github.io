@@ -18,6 +18,8 @@ Also, I am developing independent interests in _applied ethics_, especially rega
 
 ## Publications
 
+Chanwoo Lee (Forthcoming). **「인류 존속에 대한 논의는 한국인의 존속에 대해 무엇을 말해주는가? (The Continuation Of Korean People In Light Of The Continuation Of The Humanity?)」**. 『철학논집(_Sogang Journal of Philosophy_)』
+
 Chanwoo Lee (Forthcoming). **"Intertranslatability and Ground-Equivalence"**. 
 _Erkenntnis_, Available Online. [[Official Link]](https://doi.org/10.1007/s10670-024-00830-7) [[Philpapers]](https://philpapers.org/rec/LEEIAG-2)
 
@@ -30,7 +32,6 @@ Chanwoo Lee (2022). **"The Structuralist Approach to Underdetermination"**. _Syn
 
 ## In Progress / Under Review
  * A paper on the practice-oriented approach to philosophy of science
- * A paper on the existential risks regarding humanity and the Korean people
  * A paper on the very notion of the 'foundation of mathematics'
  * A paper on mathematical inferentialism
  * A paper on mathematical explanation and category theory
