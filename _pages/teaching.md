@@ -7,7 +7,9 @@ author_profile: true
 ## Ajou University
  * **Ajou Sangsang Project**: Spring 2025
  * **Major and Career Exploration with Ajou Dream**: Spring 2025
+ * **Scientific Reasoning**: Fall 2025 
  * **Selected Topics Seminar**: Spring 2025
+ * **What is Ethics?**: Fall 2025
 
 ## Chung-Ang University
  * **Logic:** Fall 2024
