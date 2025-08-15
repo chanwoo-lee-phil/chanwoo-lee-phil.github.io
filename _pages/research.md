@@ -8,7 +8,7 @@ sitemap: true
 
 Many of my current research projects revolve around the intersection of general philosophy of science, metaphysics, and philosophy of mathematics. 
 
-In _philosophy of science_, I am interested in many open problems in structural realism as well as methodological issues in scientific practice (e.g., the use of machine learning models), which I take to be continuous with the philosophy of mathematical practice. 
+In _philosophy of science_, I am interested in many open problems in structural realism as well as methodological issues in scientific practice, which I take to be continuous with the philosophy of mathematical practice. 
 
 In _philosophy of mathematics_ too, many of my current projects concern the themes around (mathematical) structuralism. More specifically, I am interested in the philosophy of category theory and how mathematical practice may inform the relevant debates.
 
@@ -48,8 +48,9 @@ Chanwoo Lee (2022). **"The Structuralist Approach to Underdetermination"**. _Syn
 
 <!--
 
-. I believe that the synergy between these areas can lead to more exciting inquiries. 
+In _philosophy of science_, I am interested in many open problems in structural realism as well as methodological issues in scientific practice (e.g., the use of machine learning models), which I take to be continuous with the philosophy of mathematical practice. 
 
+. I believe that the synergy between these areas can lead to more exciting inquiries. 
 
 ### From Indeterminacy in a Fundamental Theory to Fundamental Indeterminacy?
 _Analytic Philosophy_, forthcoming. [[Official link]](https://doi.org/10.1111/phib.12297) [[Philpapers]](https://philpapers.org/rec/LEEFII) 
