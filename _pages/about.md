@@ -16,7 +16,7 @@ I received my PhD in philosophy from [University of California, Davis](https://p
 
 You can find my CV [here](https://chanwoo-lee-phil.github.io/cv/).
 
-I like cats, but since I have been diagnosed with a cat allergy as a kid, I have never been able to live with them. (I see the silver lining after my recent, successful, cat-sitting experience.) For now, I am happy with [r/cats](https://www.reddit.com/r/cats/).
+I like cats, but since I have been diagnosed with a cat allergy as a kid, I have never been able to live with them. (I see the silver lining after my recent, successful, cat-sitting experience.) For now, I am happy with [r/cats](https://www.reddit.com/r/cats/). I also admire great dances.
 
 _(Photo credit: [Danielle J. Williams](https://www.daniellejwilliams.com/))_
 
