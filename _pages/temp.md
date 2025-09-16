@@ -7,3 +7,5 @@ sitemap: false
 ---
 
 https://docs.google.com/presentation/d/1jeG6Fz98gOrmdbi8b3ZCkdNQBdIesKavzO8d8-AgHQs/edit?usp=sharing
+
+https://docs.google.com/presentation/d/1ZWfVz67uChL7247szwkmuL4UP5pyiShOLEMRQxKqImE/edit?usp=sharing
