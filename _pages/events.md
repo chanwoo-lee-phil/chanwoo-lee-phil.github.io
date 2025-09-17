@@ -6,17 +6,17 @@ author_profile: true
 ---
 
 ## Recent and Upcoming Events
- * 29-30 November 2025. "When the Practice Doesn't Settle Philosophy". Metaphysics of Science Workshop, Chinese Academy of Sciences 
+ * 29-30 November 2025. "When the Practice Doesn't Settle Philosophy". Metaphysics of Science Workshop, Chinese Academy of Sciences
+ * 25 October 2025. Comment on Seungrak Choi's "What is classical reasoning in a natural deduction system?". The Unified Congress of Korean Philosophers, Jeonbuk National University
  * 23 October 2025. "Inferentialism from the Scientific Languages". Taiwan Philosophical Logic Colloquium, National Taiwan University
  * 2 August 2025. "Mathematical Structuralism: Now and Beyond". 21st Workshop of Korean Society for Analytic Philosophy Graduate Student Division (Keynote address), Seoul National University
+
+
+<!--
  * 17 July 2025. "Structuralism as an Explanatory Thesis". AI, Logic, Language, and Epistemology Workshop, Yonsei University
  * 2 July 2025. Comment on Alastair Wilson's "Explanations of and in Worlds". Society for the Metaphysics of Science 2025 Conference, Università della Svizzera italiana
  * 1 July 2025. "A Lakatosian Against Stance". Society for the Metaphysics of Science 2025 Conference, Università della Svizzera italiana
  * 27 June 2025. Comment on HyeJeong Han's "AI Researchers, Experimenters, and an Activity-centric Approach to Persuasion". Sungkyunkwan University
-
-
-
-<!--
  * 31 May 2025. "Does ‘Free Will’ Describe Free Will?". The Interdisciplinary Conference on Experiments and Concepts, Pusan National University
  * 24 May 2025. "In Defense of Scientific Metaphysics". Korean Society for Analytic Philosophy Spring Conference, Yonsei University
  * 21 April 2025. "Theoretical Equivalence, Metaphysical Grounding, Anti-Exceptionalism". Korean Association for Logic Monthly Seminar
