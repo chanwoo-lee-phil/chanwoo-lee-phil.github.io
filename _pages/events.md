@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Recent and Upcoming Events
+ * 29-30 November 2025. "When the Practice Doesn't Settle Philosophy". Metaphysics of Science Workshop, Chinese Academy of Sciences 
  * 23 October 2025. "Inferentialism from the Scientific Languages". Taiwan Philosophical Logic Colloquium, National Taiwan University
  * 2 August 2025. "Mathematical Structuralism: Now and Beyond". 21st Workshop of Korean Society for Analytic Philosophy Graduate Student Division (Keynote address), Seoul National University
  * 17 July 2025. "Structuralism as an Explanatory Thesis". AI, Logic, Language, and Epistemology Workshop, Yonsei University
