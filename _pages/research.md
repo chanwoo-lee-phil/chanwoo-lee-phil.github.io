@@ -17,11 +17,10 @@ I take such topics in philosophy of science and mathematics to be continuous wit
 Also, I am developing independent interests in _applied ethics_, especially regarding population ethics and existential risks.
 
 ## Publications
+Chanwoo Lee (2025). **"Intertranslatability and Ground-Equivalence"**. 
+_Erkenntnis_, 90 (7). [[Official Link]](https://doi.org/10.1007/s10670-024-00830-7) [[Philpapers]](https://philpapers.org/rec/LEEIAG-2)
 
-이찬우 (Forthcoming). **「인류 존속에 대한 논의는 한국인의 존속에 대해 무엇을 말해주는가? (The Continuation Of Korean People In Light Of The Continuation Of The Humanity?)」**. 『철학논집(_Sogang Journal of Philosophy_)』
-
-Chanwoo Lee (Forthcoming). **"Intertranslatability and Ground-Equivalence"**. 
-_Erkenntnis_, Available Online. [[Official Link]](https://doi.org/10.1007/s10670-024-00830-7) [[Philpapers]](https://philpapers.org/rec/LEEIAG-2)
+이찬우 (2025). **「인류 존속에 대한 논의는 한국인의 존속에 대해 무엇을 말해주는가? (The Continuation Of Korean People In Light Of The Continuation Of The Humanity?)」**. 『철학논집(_Sogang Journal of Philosophy_)』, 82. [[Official link]](http://doi.org/10.17325/sgjp.2025.82..65)
 
 Chanwoo Lee (2025). **"From Indeterminacy in a Fundamental Theory to Fundamental Indeterminacy?"**. _Analytic Philosophy_, 66 (1). [[Official link]](https://doi.org/10.1111/phib.12297) [[Philpapers]](https://philpapers.org/rec/LEEFII) 
 
