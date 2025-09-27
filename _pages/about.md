@@ -12,8 +12,6 @@ I am an assistant professor at [Dasan University College, Ajou University](https
 
 My [current research](https://chanwoo-lee-phil.github.io/research/) mainly concerns philosophy of science, philosophy of mathematics and metaphysics, but I am always excited to explore new topics, which I think is one of the greatest boons of my profession.
 
-I received my PhD in philosophy from [University of California, Davis](https://philosophy.ucdavis.edu/) and my BA and MA from [Seoul National University](https://en.snu.ac.kr/).
-
 You can find my CV [here](https://chanwoo-lee-phil.github.io/cv/).
 
 I like cats, but since I have been diagnosed with a cat allergy as a kid, I have never been able to live with them. (I see the silver lining after my recent, successful, cat-sitting experience.) For now, I am happy with [r/cats](https://www.reddit.com/r/cats/). I also admire great dances.
@@ -25,6 +23,8 @@ _(Photo credit: [Danielle J. Williams](https://www.daniellejwilliams.com/))_
 
 
 <!-- 
+%I received my PhD in philosophy from [University of California, Davis](https://philosophy.ucdavis.edu/) and my BA and MA from [Seoul National University](https://en.snu.ac.kr/).
+
 
 Many of my current research interests lie in various strands of structuralism, e.g., structuralism in philosophy of mathematics and structural realism in philosophy of science. I also have interests in philosophy of logic, applied ethics, etc.
 
