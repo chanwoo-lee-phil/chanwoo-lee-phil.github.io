@@ -7,6 +7,8 @@ author_profile: true
 
 ## Recent and Upcoming Events
  * 13 January 2026. "Structuralism as an Explanatory Thesis". 8th International Meeting of the Association for the Philosophy of Mathematical Practice, Chapman University
+ * 19 December 2025. "What is it like for artificial intelligence to be a philosopher?". Yonsei University
+ * 13 December 2025. "What is it like for artificial intelligence to be a philosopher?". KAIST
  * 29 November 2025. Comment on Fabio Ceravolo’s “The Parallel Between Analytic Metaphysics and Pure Mathematics. What’s to be Learned?”. Metaphysics of Science Workshop, Institute of Philosophy, Chinese Academy of Sciences
  * 29 November 2025. "When the Practice Doesn't Settle Philosophy". Metaphysics of Science Workshop, Institute of Philosophy, Chinese Academy of Sciences
  * 25 October 2025. Comment on Seungrak Choi's "What is classical reasoning in a natural deduction system?". The Unified Congress of Korean Philosophers, Jeonbuk National University
