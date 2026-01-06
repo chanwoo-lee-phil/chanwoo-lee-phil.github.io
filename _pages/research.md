@@ -17,7 +17,7 @@ I take such topics in philosophy of science and mathematics to be continuous wit
 Also, I am developing independent interests in _applied ethics_, especially regarding population ethics and existential risks.
 
 ## Publications
-Chanwoo Lee (Forthcoming). **"Category Theory as an Explanatory Foundation"**. _Synthese_, In Press. [[PhilSci-Archive]](https://philsci-archive.pitt.edu/27421/) 
+Chanwoo Lee (2026). **"Category Theory as an Explanatory Foundation"**. _Synthese_, 207: 20. [[Official Link]](https://doi.org/10.1007/s11229-025-05394-9) [[PhilSci-Archive]](https://philsci-archive.pitt.edu/27421/) 
 
 이찬우 (2025). **「과학적 형이상학에 대한 도전과 응답 (In Defense of Scientific Metaphysics)」**. 『과학철학 
           (_The Korean Journal for the Philosophy of Science_)』, 28 (3). [[KCI]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003267848) [[Full paper]](https://philsci.or.kr/wp-content/uploads/2025/11/04-ec9db4ecb0acec9ab0.pdf)
