@@ -45,10 +45,7 @@ Chanwoo Lee (2022). **"The Structuralist Approach to Underdetermination"**. _Syn
  * A paper on philosophical/epistemic stances from the Lakatosian perspective
  * A paper on the person-affecting account of benefits and harms
  * A paper on an alternative conception of mathematical structuralism
-
-
-
-
+ * A paper on the theoretical roles of 'fundamentality' in metaphysics
 
 <!--
 
