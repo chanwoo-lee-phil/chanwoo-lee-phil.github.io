@@ -26,7 +26,8 @@ Chanwoo Lee (2025). **"Intertranslatability and Ground-Equivalence"**.
 _Erkenntnis_, 90 (7). [[Official Link]](https://doi.org/10.1007/s10670-024-00830-7) [[Philpapers]](https://philpapers.org/rec/LEEIAG-2)
 
 이찬우 (2025). **「인류 존속에 대한 논의는 한국인의 존속에 대해 무엇을 말해주는가? (The Continuation Of Korean People In Light Of The Continuation Of The Humanity?)」**. 『철학논집(_Sogang Journal of Philosophy_)』, 82. [[Official link]](http://doi.org/10.17325/sgjp.2025.82..65)
-
+ * A reply to the commentary by Il-Soo Kim, 『철학논집 평론 2025년 특별호 (_Sogang Journal of Philosophy 2025 Special Issue_)』[[Link]](https://sgriphil.sogang.ac.kr/front/cmsboardlist.do?siteId=sgriphil&bbsConfigFK=6010)
+ 
 Chanwoo Lee (2025). **"From Indeterminacy in a Fundamental Theory to Fundamental Indeterminacy?"**. _Analytic Philosophy_, 66 (1). [[Official link]](https://doi.org/10.1111/phib.12297) [[Philpapers]](https://philpapers.org/rec/LEEFII) 
 
 Chanwoo Lee (2023). **"What Analytic Metaphysics Can Do For Scientific Metaphysics"**. 
