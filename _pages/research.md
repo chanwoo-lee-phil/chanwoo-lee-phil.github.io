@@ -17,15 +17,15 @@ I take such topics in philosophy of science and mathematics to be continuous wit
 Also, I am developing independent interests in _applied ethics_, especially regarding population ethics and existential risks.
 
 ## Publications
-Chanwoo Lee (2026). **"Category Theory as an Explanatory Foundation"**. _Synthese_, 207: 20. [[Official Link]](https://doi.org/10.1007/s11229-025-05394-9) [[PhilSci-Archive]](https://philsci-archive.pitt.edu/27421/) 
+Chanwoo Lee (2026). **"Category Theory as an Explanatory Foundation"**. _Synthese_, 207: 20. [[Official Link]](https://doi.org/10.1007/s11229-025-05394-9) [[PhilSci-Archive]](https://philsci-archive.pitt.edu/27421/) [[Slides]](http://sigmaa.maa.org/pom/abstracts.shtml#Lee2024) [[슬라이드]](https://docs.google.com/presentation/d/13whBOYT2zkopa4hiz7Nj-AZk_rF3LUBudhZAV5bn4Po/edit?usp=sharing)
 
 이찬우 (2025). **「과학적 형이상학에 대한 도전과 응답 (In Defense of Scientific Metaphysics)」**. 『과학철학 
-          (_The Korean Journal for the Philosophy of Science_)』, 28 (3). [[KCI]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003267848) [[Full paper]](https://philsci.or.kr/wp-content/uploads/2025/11/04-ec9db4ecb0acec9ab0.pdf)
+          (_The Korean Journal for the Philosophy of Science_)』, 28 (3). [[KCI]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003267848) [[Full paper]](https://philsci.or.kr/wp-content/uploads/2025/11/04-ec9db4ecb0acec9ab0.pdf) [[슬라이드]](https://docs.google.com/presentation/d/17RwyjApXIMXfvKDCEpGNraIqmxEPE8vTvaFNJxTeNHo/edit?usp=sharing)
 
 Chanwoo Lee (2025). **"Intertranslatability and Ground-Equivalence"**. 
-_Erkenntnis_, 90 (7). [[Official Link]](https://doi.org/10.1007/s10670-024-00830-7) [[Philpapers]](https://philpapers.org/rec/LEEIAG-2)
+_Erkenntnis_, 90 (7). [[Official Link]](https://doi.org/10.1007/s10670-024-00830-7) [[Philpapers]](https://philpapers.org/rec/LEEIAG-2) 
 
-이찬우 (2025). **「인류 존속에 대한 논의는 한국인의 존속에 대해 무엇을 말해주는가? (The Continuation Of Korean People In Light Of The Continuation Of The Humanity?)」**. 『철학논집(_Sogang Journal of Philosophy_)』, 82. [[Official link]](http://doi.org/10.17325/sgjp.2025.82..65)
+이찬우 (2025). **「인류 존속에 대한 논의는 한국인의 존속에 대해 무엇을 말해주는가? (The Continuation Of Korean People In Light Of The Continuation Of The Humanity?)」**. 『철학논집(_Sogang Journal of Philosophy_)』, 82. [[Official link]](http://doi.org/10.17325/sgjp.2025.82..65) [[유인물]](https://drive.google.com/file/d/1I-Uo4hk9MNrUMAk4V38BRBX9Pov6dqO6/view?usp=sharing)
  * A reply to the commentary by Il-Soo Kim, 『철학논집 평론 2025년 특별호』[[Link]](https://sgriphil.sogang.ac.kr/front/cmsboardlist.do?siteId=sgriphil&bbsConfigFK=6010)
  
 Chanwoo Lee (2025). **"From Indeterminacy in a Fundamental Theory to Fundamental Indeterminacy?"**. _Analytic Philosophy_, 66 (1). [[Official link]](https://doi.org/10.1111/phib.12297) [[Philpapers]](https://philpapers.org/rec/LEEFII) 
