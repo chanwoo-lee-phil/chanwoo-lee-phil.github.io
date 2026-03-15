@@ -39,7 +39,7 @@ Chanwoo Lee (2022). **"The Structuralist Approach to Underdetermination"**. _Syn
  * A paper on the practice-oriented approach to philosophy of science
  * A paper on the very notion of the 'foundation of mathematics'
  * A paper on mathematical inferentialism
- * A paper on the model-theoretic version of inferentialism
+ * A paper on the model-theoretic version of inferentialism [with [S. Kaan Tabakçı](https://sites.google.com/view/skaantabakci/)]
  * A paper on the notion of perspicuity in metaphysics
  * A paper on the genesis of 'model' in mathematics
  * A paper on philosophical/epistemic stances from the Lakatosian perspective
