@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Recent and Upcoming Events
+ * 22-24 July 2026. "When the Practice Doesn't Settle Philosophy". Asian Philosophy of Science Association Conference 2026, Nanyang Technological University
  * 13 January 2026. "Structuralism as an Explanatory Thesis". 8th International Meeting of the Association for the Philosophy of Mathematical Practice, Chapman University
  * 19 December 2025. "What is it like for artificial intelligence to be a philosopher?". Yonsei University
  * 13 December 2025. "What is it like for artificial intelligence to be a philosopher?". KAIST
