@@ -6,4 +6,4 @@ author_profile: true
 sitemap: false
 ---
 
-https://docs.google.com/presentation/d/1A8qbyefB3UN9eSF9sBezzA2GUeXaEK0ov6lNwCE-MU4/edit?usp=sharing
+https://drive.google.com/file/d/1fKU-inAKF6ngijTjiVWdwhjMJ66AAMns/view?usp=sharing
