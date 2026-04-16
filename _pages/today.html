@@ -6,4 +6,39 @@ author_profile: true
 sitemap: false
 ---
 
-<meta http-equiv="refresh" content="0; url=https://docs.google.com/spreadsheets/d/1Ncc0R-s_xBK4bdw0rbnbqa2Pc2Ky7DJE2Ex1_AxDPG8/edit?usp=sharing">
+
+<div id="status">인증 대기 중...</div>
+
+<script>
+
+  const targetEncoded = "aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvMU5jYzBSLXNfeEJLNGJkdzByYm5icWEyUGMyS3k3REpFMkV4MV9BeERQRzgvZWRpdD91c3A9c2hhcmluZw==";
+  
+
+  const secretHash = "318aee3fed8c9d040d35a7fc1fa776fb31303833aa2de885354ddf3d44d8fb69";
+
+
+  async function digestMessage(message) {
+    const msgUint8 = new TextEncoder().encode(message);
+    const hashBuffer = await crypto.subtle.digest('SHA-256', msgUint8);
+    const hashArray = Array.from(new Uint8Array(hashBuffer));
+    return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+  }
+
+  async function authenticate() {
+    const input = prompt("Secret Code를 입력하세요:");
+    if (!input) return;
+
+    const inputHash = await digestMessage(input);
+
+    if (inputHash === secretHash) {
+      document.getElementById("status").innerText = "인증 성공! 이동합니다.";
+      window.location.href = atob(targetEncoded);
+    } else {
+      alert("비밀번호가 틀렸습니다.");
+      document.getElementById("status").innerText = "접근 거부됨.";
+      window.location.href = "https://www.google.com";
+    }
+  }
+
+  authenticate();
+</script>
