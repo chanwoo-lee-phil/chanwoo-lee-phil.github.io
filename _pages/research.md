@@ -47,6 +47,8 @@ Chanwoo Lee (2022). **"The Structuralist Approach to Underdetermination"**. _Syn
  * A paper on the theoretical roles of 'fundamentality' in metaphysics
  * A paper on the (meta)philosophy of artificial intelligence
  * A paper on the AI philosophy of language [with [Inchul Yum](https://inchulyum.weebly.com/) and [Seongsoo Park](https://sites.google.com/site/seongsooparkphilosophy/)]
+
+
 <!--
 
 In _philosophy of science_, I am interested in many open problems in structural realism as well as methodological issues in scientific practice (e.g., the use of machine learning models), which I take to be continuous with the philosophy of mathematical practice. 
