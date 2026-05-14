@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 ## Recent and Upcoming Events
+ * 24-28 August 2026. "Model-Theoretic Inferentialism: The Best of Both Worlds". The 12th European Congress of Analytic Philosophy, Complutense University of Madrid [with **S. Kaan Tabakci**]
  * 22-24 July 2026. "When the Practice Doesn't Settle Philosophy". Asian Philosophy of Science Association Conference 2026, Nanyang Technological University
+ * 28 May 2026. "What is it like for artificial intelligence to be a philosopher?". Korean Society for the Ethics and Philosophy of AI
  * 13 January 2026. "Structuralism as an Explanatory Thesis". 8th International Meeting of the Association for the Philosophy of Mathematical Practice, Chapman University
- * 19 December 2025. "What is it like for artificial intelligence to be a philosopher?". Yonsei University
- * 13 December 2025. "What is it like for artificial intelligence to be a philosopher?". KAIST
 
 
 <!--
