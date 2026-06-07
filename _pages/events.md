@@ -7,7 +7,7 @@ author_profile: true
 
 ## Recent and Upcoming Events
  * 24-28 August 2026. "Model-Theoretic Inferentialism: The Best of Both Worlds". The 12th European Congress of Analytic Philosophy, Complutense University of Madrid [with **S. Kaan Tabakci**]
- * 18 August 2026. "Proof Automation: Overview and Perspectives". Korean Association for Logic 2026 Summer Meeting [with **Min Cheol Seo** and **Yeongseo Yeo**]
+ * 18 August 2026. "Proof Automation: Overview and Perspectives". Korean Association for Logic 2026 Summer Meeting, Korea Institute For Advanced Study [with **Min Cheol Seo** and **Yeongseo Yeo**]
  * 22-24 July 2026. "When the Practice Doesn't Settle Philosophy". Asian Philosophy of Science Association Conference 2026, Nanyang Technological University
  * 3 July 2026. "Model-Theoretic Inferentialism: The Best of Both Worlds". Logic Colloquium 2026 [with **S. Kaan Tabakci**]
  * 28 May 2026. "What is it like for artificial intelligence to be a philosopher?". Korean Society for the Ethics and Philosophy of AI
