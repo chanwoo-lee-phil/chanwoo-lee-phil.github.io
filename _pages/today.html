@@ -6,86 +6,40 @@ author_profile: true
 sitemap: false
 ---
 
-<style>
-  #auth-overlay {
-    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-    background-color: #ffffff; display: flex; flex-direction: column;
-    justify-content: center; align-items: center; z-index: 99999;
-    font-family: sans-serif;
-  }
-  .auth-box { text-align: center; max-width: 300px; width: 90%; }
-  .auth-box h3 { margin-bottom: 20px; color: #333333; }
-  .auth-box input {
-    width: 100%; padding: 12px; margin-bottom: 12px;
-    border: 1px solid #cccccc; border-radius: 6px; box-sizing: border-box;
-    font-size: 16px; text-align: center;
-  }
-  .auth-box button {
-    width: 100%; padding: 12px; background-color: #333333; color: #ffffff;
-    border: none; border-radius: 6px; font-size: 16px; cursor: pointer;
-  }
-  #status-msg { margin-top: 15px; color: #666666; font-size: 14px; }
-</style>
 
-<div id="auth-overlay">
-  <div class="auth-box">
-    <h3>Secret Code</h3>
-    <input type="password" id="password-input" placeholder="Enter code">
-    <button id="submit-btn">Submit</button>
-    <div id="status-msg">...</div>
-  </div>
-</div>
+<div id="status">인증 대기 중...</div>
 
 <script>
-  (function() {
-    // [설정 값]
-    const targetEncoded = "aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvMU5jYzBSLXNfeEJLNGJkdw0yUGMyS3k3REpFMkV4MV9BeERQRzgvZWRpdD91c3A9c2hhcmluZw==";
-    const secretHash = "6a5cba8b787b9b4d9cfb83528cc791826db2bf07cad846f6c56bd1df55fa0059";
 
-    // DOM 요소 선택
-    const inputField = document.getElementById("password-input");
-    const submitBtn = document.getElementById("submit-btn");
-    const statusField = document.getElementById("status-msg");
+  const targetEncoded = "aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvMU5jYzBSLXNfeEJLNGJkdzByYm5icWEyUGMyS3k3REpFMkV4MV9BeERQRzgvZWRpdD91c3A9c2hhcmluZw==";
+  
+  // https://emn178.github.io/online-tools/sha256.html 
+  const secretHash = "6a5cba8b787b9b4d9cfb83528cc791826db2bf07cad846f6c56bd1df55fa0059";
 
-    // 페이지 열리자마자 입력창에 커서 놓기
-    setTimeout(() => { if(inputField) inputField.focus(); }, 100);
 
-    // SHA-256 해시 생성
-    async function digestMessage(message) {
-      const msgUint8 = new TextEncoder().encode(message);
-      const hashBuffer = await crypto.subtle.digest('SHA-256', msgUint8);
-      const hashArray = Array.from(new Uint8Array(hashBuffer));
-      return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+  
+  async function digestMessage(message) {
+    const msgUint8 = new TextEncoder().encode(message);
+    const hashBuffer = await crypto.subtle.digest('SHA-256', msgUint8);
+    const hashArray = Array.from(new Uint8Array(hashBuffer));
+    return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+  }
+
+  async function authenticate() {
+    const input = prompt("Secret Code를 입력하세요:");
+    if (!input) return;
+
+    const inputHash = await digestMessage(input);
+
+    if (inputHash === secretHash) {
+      document.getElementById("status").innerText = "인증 성공! 이동합니다.";
+      window.location.href = atob(targetEncoded);
+    } else {
+      alert("비밀번호가 틀렸습니다.");
+      document.getElementById("status").innerText = "접근 거부됨.";
+      window.location.href = "https://www.google.com";
     }
+  }
 
-    // 인증 실행 검증
-    async function verify() {
-      const input = inputField.value;
-      if (!input) return;
-
-      statusField.innerText = "검증 중...";
-      const inputHash = await digestMessage(input);
-
-      if (inputHash === secretHash) {
-        statusField.innerText = "인증 성공! 이동합니다.";
-        statusField.style.color = "green";
-        // 주소 이동 실행
-        window.location.href = atob(targetEncoded);
-      } else {
-        alert("비밀번호가 틀렸습니다.");
-        statusField.innerText = "접근 거부됨.";
-        statusField.style.color = "red";
-        inputField.value = "";
-        window.location.href = "https://www.google.com";
-      }
-    }
-
-    // 이벤트 리스너 연결 (HTML 내 인라인 호출 방식 탈피)
-    submitBtn.addEventListener("click", verify);
-    inputField.addEventListener("keydown", function(e) {
-      if (e.key === "Enter") {
-        verify();
-      }
-    });
-  })();
+  authenticate();
 </script>
