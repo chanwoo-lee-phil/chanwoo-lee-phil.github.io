@@ -47,7 +47,7 @@ Chanwoo Lee (2022). **"The Structuralist Approach to Underdetermination"**. _Syn
  * A paper on the theoretical roles of 'fundamentality' in metaphysics
  * A paper on the (meta)philosophy of artificial intelligence
  * A paper on the AI philosophy of language [with [Inchul Yum](https://inchulyum.weebly.com/) and [Seongsoo Park](https://sites.google.com/site/seongsooparkphilosophy/)]
-
+ * A paper on proof automation [with [Min Cheol Seo](https://mincheolseo.com/) and [Yeongseo Yeo](https://kyoyang.dongduk.ac.kr/shop_contents/myboard_read.htm?load_type=&page_idx=0&tag_on=&h_search_c=0&h_search_v=&me_popup=1&myboard_code=sub1_7&page_limit=5&idx=76446&page=1&category_idx=&me_popup=1)]
 
 <!--
 
