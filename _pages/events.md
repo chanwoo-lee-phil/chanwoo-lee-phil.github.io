@@ -6,15 +6,16 @@ author_profile: true
 ---
 
 ## Recent and Upcoming Events
- * 24-28 August 2026. "Model-Theoretic Inferentialism: The Best of Both Worlds". The 12th European Congress of Analytic Philosophy, Complutense University of Madrid [with **S. Kaan Tabakci**]
- * 18 August 2026. "Philosophical Perspectives on Proof Automation in Mathematics". Korean Association for Logic 2026 Summer Meeting, Korea Institute For Advanced Study [with **Min Cheol Seo** and **Yeongseo Yeo**]
- * 22-24 July 2026. "When the Practice Doesn't Settle Philosophy". Asian Philosophy of Science Association Conference 2026, Nanyang Technological University
- * 3 July 2026. "Model-Theoretic Inferentialism: The Best of Both Worlds". Logic Colloquium 2026 [with **S. Kaan Tabakci**]
- * 28 May 2026. "What is it like for artificial intelligence to be a philosopher?". Korean Society for the Ethics and Philosophy of AI
+ * 24-28 August 2026. "Model-Theoretic Inferentialism: The Best of Both Worlds." The 12th European Congress of Analytic Philosophy, Complutense University of Madrid [with **S. Kaan Tabakci**]
+ * 18 August 2026. "Philosophical Perspectives on Proof Automation in Mathematics." Korean Association for Logic 2026 Summer Meeting, Korea Institute For Advanced Study [with **Min Cheol Seo** and **Yeongseo Yeo**]
+ * 23 July 2026. "When the Practice Doesn't Settle Philosophy." Asian Philosophy of Science Association Conference 2026, Nanyang Technological University
+ * 14 July 2026. A Discussion Panelist for the PNU–KAIST Joint Workshop on Philosophical and Psychological Discussions of AI, Pusan National University
+ * 3 July 2026. "Model-Theoretic Inferentialism: The Best of Both Worlds." Logic Colloquium 2026 [with **S. Kaan Tabakci**]
 
 
 
 <!--
+ * 28 May 2026. "What is it like for artificial intelligence to be a philosopher?" Korean Society for the Ethics and Philosophy of AI
  * 13 January 2026. "Structuralism as an Explanatory Thesis". 8th International Meeting of the Association for the Philosophy of Mathematical Practice, Chapman University
  * 29 November 2025. Comment on Fabio Ceravolo’s “The Parallel Between Analytic Metaphysics and Pure Mathematics. What’s to be Learned?”. Metaphysics of Science Workshop, Institute of Philosophy, Chinese Academy of Sciences
  * 29 November 2025. "When the Practice Doesn't Settle Philosophy". Metaphysics of Science Workshop, Institute of Philosophy, Chinese Academy of Sciences
